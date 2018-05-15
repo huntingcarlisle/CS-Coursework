@@ -2,10 +2,12 @@ class Card(object):
     '''
     One object of class Card is a representation of one playing card from a standard 52 card deck
     '''
-    ## VARIABLES
+    ## CLASS VARIABLES
+
     DICT = { 1: "Ace", 2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six", 7: "Seven", 8: "Eight", 9: "Nine", 10: "Ten", 11: "Jack", 12: "Queen", 13: "King", 'c': "Clubs", 'd': "Diamonds", 'h': "Hearts", 's': "Spades"}
 
-    ## METHODS
+    ## CLASS METHODS
+
     def __init__(self, rank, suit):
         '''
         Initializes a Card object
@@ -57,6 +59,9 @@ class Card(object):
         '''
         return Card.DICT[self.rank] + " of " + Card.DICT[self.suit]
 
+
+## TESTS
+
 c1 = Card(5, 'c')
 c2 = Card(1, 's')
 c3 = Card(13, 'd')
@@ -67,9 +72,11 @@ print (c3)
 print (c4)
 print (c1.getRank())
 print (c2.getSuit())
+print (c2.bjValue())
 print (c3.bjValue())
 print(c4.bjValue())
 
+## RECORDING
 
 '''
 ~/workspace/CS-Coursework/Foothill College/Python for Programmers/ (master) $ python hcarlisle_assignment5.py
@@ -79,6 +86,7 @@ King of Diamonds
 Nine of Hearts
 5
 s
+1
 10
 9
 '''
