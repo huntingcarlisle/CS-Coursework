@@ -24,7 +24,7 @@ try:
 except ValueError as errorObject:
     print(errorObject)
 
-print(hsc)git add .
+print(hsc)
 
 ## Attempt to create invalid employees
 try:
