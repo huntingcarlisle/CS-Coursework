@@ -1,3 +1,9 @@
 [submodule "UBC/Data Abstraction/intro-to-softconst-lecture-starters"]
 	path = UBC/Data Abstraction/intro-to-softconst-lecture-starters
 	url = https://github.com/UBCx-Software-Construction/intro-to-softconst-lecture-starters.git
+[submodule "UBC/3_dataAbstraction/UBC/3_dataAbstraction/intro-to-softconst-lecture-starters"]
+	path = UBC/3_dataAbstraction/UBC/3_dataAbstraction/intro-to-softconst-lecture-starters
+	url = https://github.com/UBCx-Software-Construction/intro-to-softconst-lecture-starters.git
+[submodule "UBC/3_dataAbstraction/intro-to-softconst-lecture-starters"]
+	path = UBC/3_dataAbstraction/intro-to-softconst-lecture-starters
+	url = https://github.com/UBCx-Software-Construction/intro-to-softconst-lecture-starters.git
