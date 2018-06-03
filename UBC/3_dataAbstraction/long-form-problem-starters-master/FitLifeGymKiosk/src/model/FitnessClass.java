@@ -7,7 +7,7 @@ import java.util.List;
 
 public class FitnessClass {
 
-    private static final int maxParticipants = 20;
+    private static final int maxParticipants = 35;
 
     private String className;
     private String dayAndTime;
