@@ -3,7 +3,8 @@ package ui;
 import model.Coin;
 
 public class Main {
-    public void main(String args[]) {
+    public static void main(String[] args) {
+
         Coin coin = new Coin();
         coin.flip();
         System.out.print(coin.checkStatus());
