@@ -13,21 +13,17 @@ public class TestRectangle {
     public static void main(String[] args) {
         // Initialize variables
         Scanner scnr = new Scanner(System.in);
-        int userLength;
-        int userWidth;
         final int NUMBER_OF_RECTANGLES = 4;
         ArrayList<Rectangle> rectangleArray = new ArrayList<>();
-
+        // Create and store Rectangle objects
         for (int i = 0; i < NUMBER_OF_RECTANGLES; i++) {
-            // Get user input
-            userLength = getUserLength(scnr);
-            userWidth = getUserWidth(scnr);
             // Instantiate rectangle object
             Rectangle userRectangle = new Rectangle();
-            userRectangle.setLength(userLength);
-            userRectangle.setWidth(userWidth);
+            userRectangle.setLength(getUserLength(scnr));
+            userRectangle.setWidth(getUserWidth(scnr));
             // Add Rectangle object to array of rectangles
             rectangleArray.add(userRectangle);
+
             System.out.println();
         }
         System.out.print(rectangleArray);
