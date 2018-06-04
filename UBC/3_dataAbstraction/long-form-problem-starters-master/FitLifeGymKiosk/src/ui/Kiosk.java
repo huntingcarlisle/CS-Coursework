@@ -1,8 +1,6 @@
 package ui;
 
 
-import java.util.Scanner;
-
 import model.FitnessClass;
 import model.Gym;
 import model.cardio.CardioMachine;
@@ -10,9 +8,9 @@ import model.members.Member;
 import model.members.Visit;
 import model.weights.Weight;
 
-import static model.members.MembershipLevel.BASIC;
-import static model.members.MembershipLevel.CLASSES;
-import static model.members.MembershipLevel.DELUXE;
+import java.util.Scanner;
+
+import static model.members.MembershipLevel.*;
 
 
 public class Kiosk {
@@ -22,7 +20,7 @@ public class Kiosk {
     private static final String UPGRADE_COMMAND = "upgrade";
     private static final String CLASSES_COMMAND = "classes";
     private static final String INFO_COMMAND = "info";
-    private static final String SIGNUP_COMMAND = "sign up";
+    private static final String ACTIVATE_COMMAND = "activate";
     private static final String CARDIO_INFO_COMMAND = "cardio";
     private static final String WEIGHT_INFO_COMMAND = "weights";
     private static final String QUIT_COMMAND = "quit";
@@ -72,7 +70,7 @@ public class Kiosk {
                 case INFO_COMMAND:
                     printGymInfo();
                     break;
-                case SIGNUP_COMMAND:
+                case ACTIVATE_COMMAND:
                     handleMembershipActivation();
                     break;
                 case CARDIO_INFO_COMMAND:
@@ -95,7 +93,7 @@ public class Kiosk {
     private void printInstructions(){
         System.out.println("\nEnter '"+ INFO_COMMAND +"' for information about the gym.");
         if(m == null) {
-            System.out.println("Enter '" + SIGNUP_COMMAND + "' to sign up for a membership.");
+            System.out.println("Enter '" + ACTIVATE_COMMAND + "' to sign up for a membership.");
         } else {
             System.out.println("To check in, enter '"+ CHECKIN_COMMAND +"'. To see your visit history,\n" +
                     "enter '"+ HISTORY_COMMAND +"'.");
@@ -160,7 +158,7 @@ public class Kiosk {
     //EFFECTS: prints error message if member is not yet signed up
     private void printMemberErrorMessage(){
         System.out.println("Error: you are not signed up. To sign up,\n" +
-                "enter '"+ SIGNUP_COMMAND +"'.");
+                "enter '"+ ACTIVATE_COMMAND +"'.");
     }
 
     //EFFECTS: prints basic gym information
