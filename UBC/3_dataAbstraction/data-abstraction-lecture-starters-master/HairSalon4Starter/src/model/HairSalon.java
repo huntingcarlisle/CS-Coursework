@@ -25,7 +25,7 @@ public class HairSalon {
             return true;
         }
         System.out.println("Customer " + c.getName() + " has been booked at " + bookingTime);
-        bookings.add(bookingTime, c);
+        bookings.set(bookingTime, c);
         c.setBookedTime(bookingTime);
         return true;
     }
@@ -54,8 +54,9 @@ public class HairSalon {
         }
         if (bookedCustomer.getName().equals(c.getName())) {
             System.out.println("Yes the customer is booked at that time");
+            return true;
         }
-        return true;
+        return false;
     }
 
     // EFFECTS: returns true if the customer is booked at the booking time

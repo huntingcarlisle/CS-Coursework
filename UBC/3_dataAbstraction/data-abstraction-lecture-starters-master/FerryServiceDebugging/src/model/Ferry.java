@@ -14,7 +14,7 @@ public class Ferry {
     public Ferry(String destination, Date sailingDate, int ticketPrice) {
         this.destination = destination;
         this.sailingDate = sailingDate;
-        this.ticketPrice = 0;
+        this.ticketPrice = ticketPrice;
         ticketSet = new HashSet<>();
     }
 
