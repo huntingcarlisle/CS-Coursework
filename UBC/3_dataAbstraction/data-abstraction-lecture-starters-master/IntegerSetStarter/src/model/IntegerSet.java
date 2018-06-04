@@ -15,6 +15,7 @@ public class IntegerSet {
 
     }
 
+<<<<<<< HEAD
     // EFFECTS: Returns true if num is in IntegerSet
     public boolean contains(Integer num) { return false; }
 
@@ -23,4 +24,6 @@ public class IntegerSet {
         return 0;
     }
 
+=======
+>>>>>>> c498588a1dd2b283d94f914254371a58e9d8d989
 }
