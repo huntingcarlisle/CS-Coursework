@@ -2,6 +2,8 @@ import model.Transcript;
 import org.junit.Before;
 import org.junit.Test;
 
+import static org.junit.Assert.assertEquals;
+
 public class testTranscript {
 
     private Transcript testTranscript;
@@ -9,16 +11,24 @@ public class testTranscript {
     @Before
     public void setUp(){
         testTranscript = new Transcript("Hunter Carlisle", 104076514);
-        //TODO: write new values in testTranscript constructor
     }
 
     @Test
     public void testTemplate(){
-        //TODO: write tests for Transcript methods
+
+    }
+
+    @Test
+    public void testTranscriptInit(){
+        assertEquals(testTranscript.getStudentName(), "Hunter Carlisle");
+        assertEquals(testTranscript.getStudentID(), 104076514);
     }
 
     @Test
     public void testAddGrade(){
-        //TODO: write tests for Transcript methods
+        testTranscript.addGrade("Math 32A", 4.0);
+        assertTrue()
+
     }
+
 }

@@ -8,6 +8,7 @@ public class IntegerSetUsage {
         IntegerSet mySet = new IntegerSet();
         mySet.insert(3);
         mySet.remove(3);
+        System.out.println("String");
     }
 
 

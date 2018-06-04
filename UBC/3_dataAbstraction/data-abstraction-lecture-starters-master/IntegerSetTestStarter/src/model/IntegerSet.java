@@ -1,11 +1,20 @@
 package model;
 
+import java.util.ArrayList;
+
 public class IntegerSet {
+    ArrayList<Integer> internalArray;
+
+    public IntegerSet() {
+        internalArray = new ArrayList<Integer>();
+    }
 
     // MODIFIES: this
-    // EFFECTS: inserts integer into set unless it's already there, in which case do nothing
+    // EFFECTS: inserts integer into set unless it's already there, in which case do nothing.
     public void insert(Integer num) {
-
+        if (!internalArray.contains(num)) {
+            internalArray.add(num);
+        }
     }
 
     // MODIFIES: this
@@ -16,11 +25,13 @@ public class IntegerSet {
     }
 
     // EFFECTS: if the integer is contained within the set, return true. Otherwise return false.
-    public boolean contains(Integer num) { return false; }
+    public boolean contains(Integer num) {
+        return internalArray.contains(num);
+    }
 
     // EFFECTS: returns the size of the set
     public int size() {
-        return 0;
+        return internalArray.size();
     }
 
 
