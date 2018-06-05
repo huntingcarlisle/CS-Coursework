@@ -68,3 +68,5 @@ class Hand(object):
         cardRank = random.randint(1, 13)
         cardSuit = random.choice('schd')
         return Card(cardRank, cardSuit)
+
+
