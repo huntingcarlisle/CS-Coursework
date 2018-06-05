@@ -35,10 +35,12 @@ public class FerryCard {
         if(balance < ticketPrice) {
             return false;
         }
-
-        Ticket ticket = new Ticket(ferry, owner);
-        ferry.addTicket(ticket);
-        return true;
+        else {
+            Ticket ticket = new Ticket(ferry, owner);
+            ferry.addTicket(ticket);
+            balance -= ticketPrice;
+            return true;
+        }
     }
 
 

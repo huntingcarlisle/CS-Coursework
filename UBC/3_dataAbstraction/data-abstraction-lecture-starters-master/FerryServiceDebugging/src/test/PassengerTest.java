@@ -17,7 +17,7 @@ public class PassengerTest {
 
     @Test
     public void testPassengerConstructor() {
-        assertEquals(testPassenger.getName(), "Burce Wayne");
+        assertEquals(testPassenger.getName(), "Bruce Wayne");
         assertEquals(testPassenger.getFerryCard().getOwner(), testPassenger);
     }
 
