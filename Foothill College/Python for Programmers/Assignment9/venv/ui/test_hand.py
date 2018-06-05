@@ -33,11 +33,11 @@ class TestHand(unittest.TestCase):
         self.c5 = Hand(0).generateRandomCard()
         self.assertTrue(1 <= self.c5.getRank() <= 13 and self.c5.getSuit() in 'schd')
         self.c6 = Hand(0).generateRandomCard()
-        self.assertTrue(1 <= self.c5.getRank() <= 13 and self.c5.getSuit() in 'schd')
+        self.assertTrue(1 <= self.c6.getRank() <= 13 and self.c6.getSuit() in 'schd')
         self.c7 = Hand(0).generateRandomCard()
-        self.assertTrue(1 <= self.c5.getRank() <= 13 and self.c5.getSuit() in 'schd')
+        self.assertTrue(1 <= self.c7.getRank() <= 13 and self.c7.getSuit() in 'schd')
         self.c8 = Hand(0).generateRandomCard()
-        self.assertTrue(1 <= self.c5.getRank() <= 13 and self.c5.getSuit() in 'schd')
+        self.assertTrue(1 <= self.c8.getRank() <= 13 and self.c8.getSuit() in 'schd')
 
     def test_hitMe(self):
         print("test_hitMe")
