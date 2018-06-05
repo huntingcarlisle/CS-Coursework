@@ -4,8 +4,6 @@
 *     @author Hunter S. Carlisle
  */
 
-package test;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
