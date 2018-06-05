@@ -1,10 +1,16 @@
+/*
+* One object of class Employee represents one employee
+*
+* Author: Hunter S. Carlisle
+ */
+
 package models;
 
 public class Employee {
     private String firstName;
     private String lastName;
     private int socialSecurityNumber;
-    private double baseSalary;
+    private double currentSalary;
 
     // TODO Constructors
     public Employee(){}
@@ -12,31 +18,31 @@ public class Employee {
         this.firstName = firstName;
         this.lastName = lastName;
         this.socialSecurityNumber = socialSecurityNumber;
-        this.baseSalary = baseSalary;
+        this.currentSalary = baseSalary;
     }
 
     // getters
     public String getFirstName() { return firstName; }
     public String getLastName() { return lastName; }
     public int getSocialSecurityNumber() { return socialSecurityNumber; }
-    public double getBaseSalary() { return baseSalary; }
+    public double getSalary() { return currentSalary; }
 
     // setters
     public void setFirstName(String firstName) { this.firstName = firstName; }
     public void setLastName(String lastName) { this.lastName = lastName; }
     public void setSocialSecurityNumber(int socialSecurityNumber) { this.socialSecurityNumber = socialSecurityNumber; }
-    public void setBaseSalary(double baseSalary) { this.baseSalary = baseSalary; }
+    public void setSalary(double baseSalary) { this.currentSalary = baseSalary; }
 
     // EFFECTS: prints employee object information as a string sentence.
     public String toString(){
-        return (this.firstName + " " + this.lastName + " is an employee of the firm whose social secuirty number is " + this.socialSecurityNumber + " and salary is " + this.baseSalary);
+        return (this.firstName + " " + this.lastName + " is an employee of the firm whose social security number is " + this.socialSecurityNumber + " and salary is " + this.currentSalary);
     }
 
-    // REQUIRES: percentRaise should be double between 0.0 and 1.0
-    // MODIFIES: baseSalary
+    // REQUIRES: percent raise should be double between 0.0 and 1.0
+    // MODIFIES: this
     // EFFECTS: increases baseSalary by percentRaise
     public void giveRaise(double percentRaise) {
-        baseSalary *= 1.0 + percentRaise;
+        currentSalary *= 1.0 + percentRaise;
     }
 
 
