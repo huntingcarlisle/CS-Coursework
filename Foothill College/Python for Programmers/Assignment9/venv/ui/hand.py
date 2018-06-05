@@ -5,18 +5,17 @@ class Hand(object):
     """
     One object of class Hand represents a hand of playing cards drawn from an infinite number of standard 52-card decks
     """
-    def __init__(self, numCardsInHand = None):
+    def __init__(self, numCardsInHand):
         """
         REQUIRES: numCardsInHand must be a positive integer greater than zero
         EFFECTS: consumes numCardsInHand and populates a Hand Object with that number of Card objects
         """
         self.hand = []
-        if numCardsInHand is not None:
-            if type(numCardsInHand) == int:
-                for slot in range(numCardsInHand):
-                    self.hand.append(self.generateRandomCard())
-            else:
-                raise TypeError("Number of Cards must be an integer")
+        if type(numCardsInHand) == int:
+            for slot in range(numCardsInHand):
+                self.hand.append(self.generateRandomCard())
+        else:
+            raise TypeError("Number of Cards must be an integer")
 
     def hitMe(self):
         """

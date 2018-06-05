@@ -15,12 +15,12 @@ class TestHand(unittest.TestCase):
         self.h1 = Hand(3)
         self.h2 = Hand(2)
         self.h3 = Hand(10)
-        self.h4 = Hand()
+        self.h4 = Hand(0)
         self.h4.addTestCard(self.c1)
         self.h4.addTestCard(self.c2)
         self.h4.addTestCard(self.c3)
         self.h4.addTestCard(self.c4)
-        self.h5 = Hand()
+        self.h5 = Hand(0)
         self.h5.addTestCard(self.c1)
         self.h5.addTestCard(self.c1)
 
@@ -30,8 +30,14 @@ class TestHand(unittest.TestCase):
             self.h6 = Hand('a')
 
     def test_generateRandomCard(self):
-        self.h7 = Hand(1)
-        self.assertTrue(1 <= self.h7[0].getRank() <= 13 and self.h7[0].getSuit() in 'schd')
+        self.c5 = Hand(0).generateRandomCard()
+        self.assertTrue(1 <= self.c5.getRank() <= 13 and self.c5.getSuit() in 'schd')
+        self.c6 = Hand(0).generateRandomCard()
+        self.assertTrue(1 <= self.c5.getRank() <= 13 and self.c5.getSuit() in 'schd')
+        self.c7 = Hand(0).generateRandomCard()
+        self.assertTrue(1 <= self.c5.getRank() <= 13 and self.c5.getSuit() in 'schd')
+        self.c8 = Hand(0).generateRandomCard()
+        self.assertTrue(1 <= self.c5.getRank() <= 13 and self.c5.getSuit() in 'schd')
 
     def test_hitMe(self):
         print("test_hitMe")
