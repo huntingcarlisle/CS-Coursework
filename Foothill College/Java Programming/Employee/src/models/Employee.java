@@ -12,8 +12,13 @@ public class Employee {
     private int socialSecurityNumber;
     private double currentSalary;
 
-    // TODO Constructors
-    public Employee(){}
+    // Constructors
+    public Employee(){
+        this.firstName = "";
+        this.lastName = "";
+        this.socialSecurityNumber = 0;
+        this.currentSalary = 0.0;
+    }
     public Employee(String firstName, String lastName, int socialSecurityNumber, double baseSalary){
         this.firstName = firstName;
         this.lastName = lastName;

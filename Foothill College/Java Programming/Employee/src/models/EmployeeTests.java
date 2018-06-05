@@ -28,6 +28,7 @@ public class EmployeeTests {
 
         // Initialize Employee Object using constructor with no parameters
         Employee hsc = new Employee();
+        System.out.println(hsc.toString());
 
         // Test setters
         hsc.setFirstName("Hunter");
@@ -58,6 +59,7 @@ Drumpf
 Donald Drumpf is an employee of the firm whose social security number is 111111111 and salary is 30.0
 30.3
 
+  is an employee of the firm whose social security number is 0 and salary is 0.0
 Hunter
 Carlisle
 123456789
