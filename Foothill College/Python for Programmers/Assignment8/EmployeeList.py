@@ -8,15 +8,12 @@ class EmployeeList:
     def addEmployee(self, employee):
         '''
         Used to add an employee to  self.employeeList
-
-
         '''
         self.employeeList.append(employee)
 
     def getList(self):
         '''
         Used to safely access a copy of self.employeeList outside of the class
-
         Returns: a COPY of self.employeeList
         '''
         return self.employeeList[:]
@@ -33,7 +30,6 @@ class EmployeeList:
     def sort(self):
         '''
         Used to sort an object of the EmployeeList class
-
         Returns: a sorted copy of self.employeeList
         '''
         sortedEmployeeList = EmployeeList()

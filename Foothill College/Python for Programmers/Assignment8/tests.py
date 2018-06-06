@@ -109,7 +109,6 @@ except TypeError as errorObject:
 print()
 
 print ("==== TESTING EMPLOYEE LIST ====")
-
 firmEmployees = EmployeeList()
 
 ## Add employees
@@ -118,7 +117,6 @@ firmEmployees.addEmployee(mrManager)   # manager
 firmEmployees.addEmployee(hrc)
 
 ## Give employees a raise
-
 print(firmEmployees)
 print()
 
@@ -171,65 +169,66 @@ print (sorted(employeeList))
 
 
 
+'''
+~/workspace/CS-Coursework/Foothill College/Python for Programmers/Assignment8/ (master) $ python tests.py
+   ======= OUTPUT =======
+==== TESTING EMPLOYEE CLASS ====
+Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 300000
+Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 420000
+Invalid raise percentage
+Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 420000
+Invalid employee details
+Invalid employee details
+Invalid employee details
+Invalid employee details
 
-#    ======= OUTPUT =======
-# ~/workspace/CS-Coursework/Foothill College/Python for Programmers/Assignment8/ (master) $ python tests.py
-# ==== TESTING EMPLOYEE CLASS ====
-# Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 300000
-# Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 420000
-# Invalid raise percentage
-# Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 420000
-# Invalid employee details
-# Invalid employee details
-# Invalid employee details
-# Invalid employee details
+==== TESTING MANAGER SUBCLASS ====
+Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 10000, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000
+Invalid employee details
+Invalid employee details
 
-# ==== TESTING MANAGER SUBCLASS ====
-# Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 10000, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000
-# Invalid employee details
-# Invalid employee details
-
-# ==== TESTING EMPLOYEE LIST ====
-# Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 420000
-# Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 10000, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000
-# Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 123456
-
-
-# Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 525000
-# Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 12500, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000
-# Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 154320
-
-# ==== TESTING EMPLOYEE EQ METHOD ====
-# False
-# False
-# True
-# True
-
-# ==== TESTING EMPLOYEE LT METHOD ====
-# True
-# False
-# False
-# True
-
-# ==== TESTING EMPLOYEE EQ AND LT METHOD ARE CONSISTENT ====
-# False
-# False
-# True
-
-# ==== TESTING EMPLOYEE LIST SORT ====
-# Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 154320
-# Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 12500, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000
-# Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 525000
-# Hero Carlisle is an employee of the firm whose social security number is 999-99-9999 and salary is 500
+==== TESTING EMPLOYEE LIST ====
+Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 420000
+Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 10000, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000
+Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 123456
 
 
-# Hero Carlisle is an employee of the firm whose social security number is 999-99-9999 and salary is 500
-# Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 525000
-# Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 154320
-# Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 12500, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000
+Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 525000
+Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 12500, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000
+Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 154320
+
+==== TESTING EMPLOYEE EQ METHOD ====
+False
+False
+True
+True
+
+==== TESTING EMPLOYEE LT METHOD ====
+True
+False
+False
+True
+
+==== TESTING EMPLOYEE EQ AND LT METHOD ARE CONSISTENT ====
+False
+False
+True
+
+==== TESTING EMPLOYEE LIST SORT ====
+Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 154320
+Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 12500, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000
+Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 525000
+Hero Carlisle is an employee of the firm whose social security number is 999-99-9999 and salary is 500
 
 
-# ==== IMPLEMENTING SORT IN A MORE 'MAGIC' WAY (I.E. WITHOUT USING THE EMPLOYEELIST OBJECT BUT RATHER A NORMAL PYTHON LIST) ====
-# [Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 154320, Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 12500, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000, Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 525000, Hero Carlisle is an employee of the firm whose social security number is 999-99-9999 and salary is 500]
+Hero Carlisle is an employee of the firm whose social security number is 999-99-9999 and salary is 500
+Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 525000
+Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 154320
+Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 12500, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000
 
-# [Hero Carlisle is an employee of the firm whose social security number is 999-99-9999 and salary is 500, Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 525000, Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 154320, Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 12500, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000]
+
+==== IMPLEMENTING SORT IN A MORE 'MAGIC' WAY (I.E. WITHOUT USING THE EMPLOYEELIST OBJECT BUT RATHER A NORMAL PYTHON LIST) ====
+[Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 154320, Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 12500, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000, Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 525000, Hero Carlisle is an employee of the firm whose social security number is 999-99-9999 and salary is 500]
+
+[Hero Carlisle is an employee of the firm whose social security number is 999-99-9999 and salary is 500, Hunter Carlisle is an employee of the firm whose social security number is 123-45-6789 and salary is 525000, Hillary Clinton is an employee of the firm whose social security number is 987-65-4321 and salary is 154320, Mr Manager is an employee of the firm whose social security number is 111-11-1111 and salary is 12500, this employee is also a manager of the firm whose job title is Boss Man with an annual bonus of 1000]
+'''
