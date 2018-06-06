@@ -2,15 +2,15 @@ class Card(object):
     """
     One object of class Card is a representation of one playing card from a standard 52 card deck
     """
-    ## CLASS VARIABLES
+    # CLASS VARIABLES
 
-    ENGLISH_REPRESENTATION = { 1: "Ace", 2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six", 7: "Seven", 8: "Eight", 9: "Nine", 10: "Ten", 11: "Jack", 12: "Queen", 13: "King", 'c': "Clubs", 'd': "Diamonds", 'h': "Hearts", 's': "Spades"}
+    ENGLISH_REPRESENTATION = {1: "Ace", 2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six", 7: "Seven", 8: "Eight", 9: "Nine", 10: "Ten", 11: "Jack", 12: "Queen", 13: "King", 'c': "Clubs", 'd': "Diamonds", 'h': "Hearts", 's': "Spades"}
 
-    ## CLASS METHODS
+    # CLASS METHODS
 
     def __init__(self, rank, suit):
         """
-        Initializes a Card object
+        Initialize a Card object
 
         rank (integer[1,13]): the rank of the card, indicating 'Ace' through 'King'
         suit (character): the suit of the card, one of:
@@ -41,7 +41,7 @@ class Card(object):
 
     def getRank(self):
         """
-        Used to safely access self.rank outside of the class
+        Safely access self.rank outside of the class
 
         Returns: self.rank
         """
@@ -49,7 +49,7 @@ class Card(object):
 
     def getSuit(self):
         """
-        Used to safely access self.suit outside of the class
+        Safely access self.suit outside of the class
 
         Returns: self.suit
         """
@@ -57,7 +57,7 @@ class Card(object):
 
     def bjValue(self):
         """
-        Calculates the blackjack value of a card, a number
+        Calculate the blackjack value of a card, a number
 
         Returns: the blackjack value of the card
         """
