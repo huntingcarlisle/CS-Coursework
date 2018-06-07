@@ -25,3 +25,7 @@ public class IntegerSet {
     }
 
 }
+
+    public static void main(String[] args) {
+
+    }
