@@ -4,7 +4,8 @@ import model.*;
 
 public class FlyerDemo {
     public static void main(String[] args) {
-        Bird birdie = new Bird();
+        Bird hawkie = new Hawk();
+        Bird hummie = new Hummingbird();
         Airplane planie = new Airplane();
         Cafe cafePlane = new Airplane();
         Flyer flyerPlane = new Airplane();
@@ -14,7 +15,8 @@ public class FlyerDemo {
         pp.bringWarmTowels();
         pp.serveSnacks();
 
-        birdie.fly();
+        hawkie.fly();
+        hummie.fly();
         cafePlane.serveDrinks();
 
         FlyerDemo fd = new FlyerDemo();
