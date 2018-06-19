@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fd4a509-d08b-41ed-8ac8-acbbb0058440" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/ui/eleven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/Flyers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/src/model/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/src/model/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/src/model/Cafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/src/model/Flyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/src/model/PrivatePlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/src/ui/FlyerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java Programming/Employee/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Programming/Employee/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java Programming/Employee/out/production/Employee/models/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Programming/Employee/out/production/Employee/models/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java Programming/Employee/out/production/Employee/models/EmployeeTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Programming/Employee/out/production/Employee/models/EmployeeTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java Programming/Employee/src/models/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Programming/Employee/src/models/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java Programming/Employee/src/models/EmployeeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Programming/Employee/src/models/EmployeeTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ui/test_blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ui/test_blackjack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/data-abstraction-lecture-starters-master/IntegerSetStarter/src/model/IntegerSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/data-abstraction-lecture-starters-master/IntegerSetStarter/src/model/IntegerSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UBC/3_dataAbstraction/Flyers/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,70 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="card.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/venv/ui/card.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="72">
-                  <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="hand.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/venv/ui/hand.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="84">
-                  <caret line="8" selection-start-line="8" selection-end-line="12" selection-end-column="11" />
-                  <folding>
-                    <element signature="e#0#21#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="handfile_extracredit.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/venv/ui/handfile_extracredit.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="329">
-                  <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-                  <folding>
-                    <element signature="e#0#21#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="eleven.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/venv/ui/eleven.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret selection-end-line="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="225">
-          <file leaf-file-name="test_blackjack.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/venv/ui/test_blackjack.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-936">
-                  <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="33" />
-                  <folding>
-                    <element signature="e#78#93#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -138,11 +56,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="9" />
-    <option name="y" value="21" />
-    <option name="width" value="960" />
-    <option name="height" value="1009" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="-2" />
+    <option name="width" value="1920" />
+    <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -150,7 +68,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,6 +96,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,13 +243,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1034" extended-state="7" />
-    <editor active="true" />
+    <frame x="1920" y="-2" width="1920" height="1041" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1140625" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32875264" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32875264" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.22957198" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -349,21 +266,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294423" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294423" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.22957198" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994812" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3294423" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.22957198" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -375,6 +292,47 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/ui/card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ui/hand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" selection-start-line="8" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ui/handfile_extracredit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ui/eleven.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ui/test_blackjack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/ui/card.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -406,9 +364,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <element signature="e#78#93#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -435,9 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3094">
           <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
-          <folding>
-            <element signature="e#78#93#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -455,16 +407,6 @@
     <entry file="file://$PROJECT_DIR$/venv/ui/Main.py" />
     <entry file="file://$PROJECT_DIR$/venv/ui/test_card.py" />
     <entry file="file://$PROJECT_DIR$/venv/ui/handUsage.py" />
-    <entry file="file://$PROJECT_DIR$/venv/ui/hand.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" selection-start-line="8" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/ui/handOnDisk.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -472,30 +414,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ui/card.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/ui/test_blackjack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-936">
+        <state relative-caret-position="192">
           <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="33" />
-          <folding>
-            <element signature="e#78#93#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ui/handfile_extracredit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -503,6 +425,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ui/handfile_extracredit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ui/hand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" selection-start-line="8" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ui/card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
