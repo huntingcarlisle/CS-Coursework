@@ -1,5 +1,5 @@
 """
-This program contains all units tests for the Card and Hand classes.
+This program contains all units tests for the Card, Hand, and HandFile classes.
 """
 
 import unittest
@@ -213,14 +213,12 @@ Unit test for Handfile.getCardFromStr. ... ok
 test_handFileToHandObject (__main__.TestHandFile)
 Unit test for HandFile.handFileToHandObject. ... ok
 test_runMethodOnReadBackHandObject (__main__.TestHandFile)
-Test that read back Hand object is a valid hand object ... ok
+Test that read-back Hand object is a valid hand object ... ok
 test_strToCardValue (__main__.TestHandFile)
 Unit test for HandFile.strToCardValue. ... ok
 
 ----------------------------------------------------------------------
-Ran 16 tests in 0.019s
+Ran 16 tests in 0.002s
 
 OK
 """
-
-

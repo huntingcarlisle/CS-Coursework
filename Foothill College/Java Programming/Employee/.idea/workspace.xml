@@ -14,6 +14,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/models/Employee.java">
@@ -28,6 +29,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,13 +43,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/models/Employee.java" />
         <option value="$PROJECT_DIR$/src/models/Scratch.java" />
         <option value="$PROJECT_DIR$/src/models/EmployeeTests.java" />
+        <option value="$PROJECT_DIR$/src/models/Employee.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="y" value="21" />
     <option name="width" value="960" />
     <option name="height" value="1009" />
@@ -55,8 +59,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="AndroidView" />
+=======
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,7 +88,11 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+      <pane id="Scope" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -102,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Scratch">
+  <component name="RunManager" selected="Application.EmployeeTests">
     <configuration name="EmployeeTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="models.EmployeeTests" />
       <module name="Employee" />
@@ -154,8 +167,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Scratch" />
         <item itemvalue="Application.EmployeeTests" />
+        <item itemvalue="Application.Scratch" />
       </list>
     </recent_temporary>
   </component>
@@ -182,19 +195,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="0" y="21" width="960" height="1009" extended-state="4" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32818532" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32769555" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14625" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29375" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -207,6 +224,10 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+<<<<<<< HEAD
+=======
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32980973" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -214,11 +235,12 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/models/Employee.java">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
@@ -239,21 +261,38 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/models/Scratch.java">
+=======
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        <state relative-caret-position="120">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#1895#0" expanded="true" />
+          </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Employee-1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-121" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/models/EmployeeTests.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#1924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/Scratch.java" />
+    <entry file="file://$USER_HOME$/Downloads/Employee-1.java" />
+    <entry file="file://$PROJECT_DIR$/src/models/EmployeeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="306">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+=======
+        <state relative-caret-position="276">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
           <folding>
             <element signature="e#0#1924#0" expanded="true" />
           </folding>
@@ -262,8 +301,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/models/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="85">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+=======
+        <state relative-caret-position="468">
+          <caret line="39" column="52" lean-forward="true" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
           <folding>
             <element signature="e#0#1895#0" expanded="true" />
           </folding>
