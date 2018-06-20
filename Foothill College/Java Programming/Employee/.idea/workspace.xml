@@ -14,6 +14,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/models/Employee.java">
@@ -29,11 +30,29 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+=======
+<<<<<<< HEAD
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/models/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#1895#0" expanded="true" />
+              </folding>
+>>>>>>> 401435f327d4133c39d373052f8c128a553ca77c
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+<<<<<<< HEAD
+=======
+=======
+    <leaf />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
+>>>>>>> 401435f327d4133c39d373052f8c128a553ca77c
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,8 +81,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+<<<<<<< HEAD
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+=======
+      <pane id="AndroidView" />
+>>>>>>> 401435f327d4133c39d373052f8c128a553ca77c
       <pane id="PackagesPane" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,7 +114,15 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="AndroidView" />
+=======
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+=======
+      <pane id="Scope" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
+>>>>>>> 401435f327d4133c39d373052f8c128a553ca77c
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,18 +244,34 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2936842" />
+=======
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14625" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29375" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
+>>>>>>> 401435f327d4133c39d373052f8c128a553ca77c
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32980973" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
+>>>>>>> 401435f327d4133c39d373052f8c128a553ca77c
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -257,6 +309,29 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/models/Employee.java">
+<<<<<<< HEAD
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#1895#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/EmployeeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#1924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/Scratch.java">
+=======
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
@@ -278,8 +353,18 @@
     <entry file="file://$USER_HOME$/Downloads/Employee-1.java" />
     <entry file="file://$PROJECT_DIR$/src/models/EmployeeTests.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="72">
           <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="306">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+=======
+        <state relative-caret-position="276">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
+>>>>>>> 401435f327d4133c39d373052f8c128a553ca77c
           <folding>
             <element signature="e#0#2590#0" expanded="true" />
             <element signature="e#553#563#0" expanded="true" />
@@ -289,6 +374,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/models/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="510">
           <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
         </state>
@@ -298,6 +384,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="85">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+=======
+        <state relative-caret-position="468">
+          <caret line="39" column="52" lean-forward="true" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
+>>>>>>> d07d47abb845ae16388c0290d3cedcfd5dd11ee8
+          <folding>
+            <element signature="e#0#1895#0" expanded="true" />
+          </folding>
+>>>>>>> 401435f327d4133c39d373052f8c128a553ca77c
         </state>
       </provider>
     </entry>
