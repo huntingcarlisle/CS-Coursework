@@ -5,20 +5,19 @@ class MyFrame(tkinter.Frame):
     """
     class View is the VIEW for a simple program that exemplifies the Model/View/Controller architecture.
     This View class is a tkinter.
-    Frame that contains two Buttons and a Label.
-    One Button increments a counter and the other Button quits.
-    The Label displays the current value of the counter.
-    Notice that the View never contains a reference to the Model, but it does contain a reference to the Controller.
+    Frame that contains three Buttons, a text entry field and a Label.
+    The text entry field inputs a user temperature.
+    One Button converts inputted temperature to fahrenheit, one button converts to celsius, and one button quits
+    The Label displays the converted value of the inputted temperature.
     """
 
     def __init__(self, controller):
         tkinter.Frame.__init__(self)
         self.pack()
-        self.controller = controller    # saves a reference to the controller so that we can call methods
-                                        # on the controller object when the user generates events
+        self.controller = controller
 
         self.temperatureEntry = tkinter.Entry()
-        self.temperatureEntry.insert(0, "enter a temperature")
+        self.temperatureEntry.insert(0, "Enter a temperature")
         self.temperatureEntry.pack({"side": "left"})
 
         self.fahrenheitButton = tkinter.Button(self)

@@ -5,15 +5,15 @@ import view
 class Controller:
 
     """
-    The CONTROLLER for an app that follows the Model/View/Controller architecture.
     When the user presses a Button on the View, this Controller calls the appropriate methods in the Model.
-    The Controller handles all communication between the Model and the View.
     """
 
     def __init__(self):
 
         """
-        This starts the Tk framework up, instantiates the Model (a Temperature object), instantiates the View (a MyFrame object), and starts the event loop that waits for the user to press a Button on the View.
+        This starts the Tk framework up, instantiates the Model (a Temperature object),
+            instantiates the View (a MyFrame object),
+            and starts the event loop that waits for the user to press a Button on the View.
         """
 
         root = tkinter.Tk()
@@ -26,14 +26,14 @@ class Controller:
         Python calls this method when the user presses the fahrenheitButton in the View.
         """
         self.model = model.Temperature(self.view.temperatureEntry.get())
-        self.view.labelForOutput["text"] = self.model.fahrenheitConversion()
+        self.view.labelForOutput["text"] = str(self.view.temperatureEntry.get()) + "\N{DEGREE SIGN} celsius is " + str(self.model.fahrenheitConversion()) + "\N{DEGREE SIGN} fahrenheit."
 
     def celsiusButtonPressed(self):
         """
         Python calls this method when the user presses the celsiusButton in the View.
         """
         self.model = model.Temperature(self.view.temperatureEntry.get())
-        self.view.labelForOutput["text"] = self.model.celsiusConversion()
+        self.view.labelForOutput["text"] = str(self.view.temperatureEntry.get()) + "\N{DEGREE SIGN} fahrenheit is " + str(self.model.celsiusConversion()) + "\N{DEGREE SIGN} celsius."
 
 if __name__ == "__main__":
     c = Controller()
