@@ -26,8 +26,13 @@
       <file leaf-file-name="model.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/temperature/model.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="357">
               <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+=======
+            <state relative-caret-position="300">
+              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+>>>>>>> 9efdd476a5ccc96bfdc91150865af4d0a45a9a15
             </state>
           </provider>
         </entry>
@@ -35,8 +40,13 @@
       <file leaf-file-name="view.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/temperature/view.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state>
               <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+=======
+            <state relative-caret-position="465">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+>>>>>>> 9efdd476a5ccc96bfdc91150865af4d0a45a9a15
             </state>
           </provider>
         </entry>
@@ -253,7 +263,11 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.119375" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.33463034" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.335845" />
+>>>>>>> 9efdd476a5ccc96bfdc91150865af4d0a45a9a15
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -399,7 +413,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file:///usr/lib/python3.6/tkinter/__init__.py" />
+=======
+    <entry file="file:///usr/lib/python3.6/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="1701" selection-start-line="1701" selection-end-line="1701" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 9efdd476a5ccc96bfdc91150865af4d0a45a9a15
     <entry file="file://$PROJECT_DIR$/venv/Greet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
@@ -409,15 +433,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/temperature/view.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state>
           <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+=======
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+>>>>>>> 9efdd476a5ccc96bfdc91150865af4d0a45a9a15
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/temperature/model.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="357">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+=======
+        <state relative-caret-position="300">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+>>>>>>> 9efdd476a5ccc96bfdc91150865af4d0a45a9a15
         </state>
       </provider>
     </entry>

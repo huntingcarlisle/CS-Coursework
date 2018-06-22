@@ -9,12 +9,12 @@ package models;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class EmployeeTests {
+public class EmployeeTests_ExtraCredit {
     public static void main(String[] args) {
         // EXTRA CREDIT
 
         /*
-        Generate a list of Employee Objects and print to console
+        Generate a list of 4 Employee Objects and print to console
          */
 
         //Initialize variables
@@ -37,10 +37,10 @@ public class EmployeeTests {
         }
         System.out.println(employeeArray);
 
-        System.out.println();
 
 
         // TESTS
+        System.out.println();
         // Initialize Employee object using constructor with paramenters
         Employee djt = new Employee("Donald", "Drumpf", 111111111, 30.0);
         Employee bho = new Employee("Barack", "Obama", 999999999, 300000.0);
@@ -55,7 +55,7 @@ public class EmployeeTests {
         System.out.println(bho.getSocialSecurityNumber());
         System.out.println(bho.getSalary());
 
-        // Test toString Method
+        // Test String Method
         System.out.println(djt);
         System.out.println(bho);
 
@@ -83,7 +83,7 @@ public class EmployeeTests {
         hsc.setSalary(100000.0);
         System.out.println(hsc.getSalary());
 
-        // Test toString Method
+        // Test String Method
         System.out.println(hsc);
 
         // Test giveRaise method
