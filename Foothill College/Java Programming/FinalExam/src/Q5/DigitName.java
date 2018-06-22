@@ -1,15 +1,11 @@
 package Q4;
 
-public class Main {
-    public static void main(String[] args) {
-        System.out.println(digitName(7));   // Expects 'four'
-
-    }
+public class DigitName {
 
     public static String digitName(int digit) {
-        // Returns the string containing the name of hte digit sent in as parament
+        // Returns the string containing the name of the digit sent in as parameter
         // digit: integer in set [0,9]
-        String name = new String();
+        String name = "";
         switch (digit) {
             case 0: name = "zero";
                 break;
