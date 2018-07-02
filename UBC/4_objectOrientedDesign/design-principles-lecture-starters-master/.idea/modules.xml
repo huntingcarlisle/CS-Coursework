@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RefactoredHairSalonSolution/RefactoredHairSalonSolution.iml" filepath="$PROJECT_DIR$/RefactoredHairSalonSolution/RefactoredHairSalonSolution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/RefactoredHairSalonStarter/RefactoredHairSalonStarter.iml" filepath="$PROJECT_DIR$/RefactoredHairSalonStarter/RefactoredHairSalonStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RefactoredSimpleDrawingPlayerSolution/RefactoredSimpleDrawingPlayerSolution.iml" filepath="$PROJECT_DIR$/RefactoredSimpleDrawingPlayerSolution/RefactoredSimpleDrawingPlayerSolution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/RefactoredSimpleDrawingPlayerStarter/RefactoredSimpleDrawingPlayerStarter.iml" filepath="$PROJECT_DIR$/RefactoredSimpleDrawingPlayerStarter/RefactoredSimpleDrawingPlayerStarter.iml" />
+    </modules>
+  </component>
+</project>
