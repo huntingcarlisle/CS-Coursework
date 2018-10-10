@@ -1,10 +1,6 @@
 Computer Science 2018-2019
 --------------------------
 
-
-
-Switch to a past Academic Year:   \-----2018-2019 2017-2018 2016-2017 2015-2016 2014-2015 2013-2014 2012-2013 2011-2012 2010-2011 2009-2010 2008-2009 2007-2008 2006-2007 2005-2006 2004-2005     [Print View](/programs/programs-print.html?title_id=Computer Science)
-
 Computer programming, algorithms, data structures, and languages play an increasingly important role in academic, science and business careers. The Associate in Science degree satisfies the transfer requirements of many disparate 4-year colleges and universities. Our up-to-date curriculum is also valuable for enhancing the career opportunities of working professionals.
 
 ### Program Learning Outcomes:
@@ -37,7 +33,6 @@ A minimum of 90 units is required\* to include:
 **NOTE:** All courses pertaining to the major must be taken for a letter grade. In addition, a grade of "C" or better is required for all core and support courses used for the degree.
 
 AS = Associate in Science Degree.  
-CP = Certificate of Proficiency \[Non-Transcriptable\].  
 
 ### Core Courses (38 units)
 
@@ -119,28 +114,7 @@ PHYS 4A General Physics (Calculus) (6 units)
 PHYS 4B General Physics (Calculus) (6 units)  
 PHYS 4C General Physics (Calculus) (6 units)
 
-#### Mobile Applications Certificate of Proficiency (23 Units) \[Non-Transcriptable\]
 
-There is no minimum English proficiency required for this certificate.  
-
-C S 10 Computer Architecture & Organization (4.5 units)  
-C S 18 Discrete Mathematics (5 units)  
-**or** MATH 22 Discrete Mathematics (5 units)  
-C S 40A Software Engineering Methodologies (4.5 units)  
-C S 63A\* Developing Applications for iOS (4.5 units)  
-**or** C S 64A\* Writing Apps for the Android in Java (4.5 units)  
-  
-**And ONE course** from the following:  
-C S 1C Advanced Data Structures & Algorithms in Java (4.5 units)  
-C S 2C Advanced Data Structures & Algorithms in C++ (4.5 units)  
-C S 22A JavaScript for Programmers (4.5 units)  
-C S 30B Linux Shell Programming (4.5 units)  
-C S 63A\* Developing Applications for iOS (4.5 units)  
-C S 64A\* Writing Apps for the Android in Java (4.5 units)  
-C S 80A Open Source Contribution (4.5 units)  
-C S 81A 3-D Graphics Programming (4.5 units)  
-
-\* May be completed only once for credit to satisfy certificate requirements.
 
 * * *
 
