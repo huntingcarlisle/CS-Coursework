@@ -27,15 +27,15 @@ Your program will compute some values based on these two numbers, so each studen
 
 The following five expressions assume that you have stored your student ID into the variable **_my_**_**Id**_, and the number of letters in your last (family) name into the variable _**numLet**_.  You can manually enter both of these using _**assignment statements**_ in your program source.  No user input allowed.  Compute the following five values:
 
-#1:      ![LaTeX: myId\:\%\:17](/equation_images/myId%255C%253A%255C%2525%255C%253A17 "myId\:\%\:17") m y I d  %  17
+#1:       m y I d  %  17
 
-#2:   ![LaTeX: \left(myId\:+4\right)\:\%\:9](/equation_images/%255Cleft(myId%255C%253A%252B4%255Cright)%255C%253A%255C%2525%255C%253A9 "\left(myId\:+4\right)\:\%\:9") (  m y I d  + 4  )   %  9
+#2:    (  m y I d  + 4  )   %  9
 
-#3:   ![LaTeX: \frac{myId}{myId\:+\:500.}](/equation_images/%255Cfrac%257BmyId%257D%257BmyId%255C%253A%252B%255C%253A500.%257D "\frac{myId}{myId\:+\:500.}") m y I d   m y I d  +  500.
+#3:    m y I d   m y I d  +  500.
 
-#4:    ![LaTeX: 1\:+\:2\:+\:3\:+...\:+\:numLet](/equation_images/1%255C%253A%252B%255C%253A2%255C%253A%252B%255C%253A3%255C%253A%252B...%255C%253A%252B%255C%253AnumLet "1\:+\:2\:+\:3\:+...\:+\:numLet") 1  +  2  +  3  + . . .  +  n u m L e t
+#4:     1  +  2  +  3  + . . .  +  n u m L e t
 
-#5:    ![LaTeX: \frac{15,000.}{80.\:+\left[\frac{myId\:-123,456}{\left(numLet\:+20\right)^2}\right]}](/equation_images/%255Cfrac%257B15%252C000.%257D%257B80.%255C%253A%252B%255Cleft%255B%255Cfrac%257BmyId%255C%253A-123%252C456%257D%257B%255Cleft(numLet%255C%253A%252B20%255Cright)%255E2%257D%255Cright%255D%257D "\frac{15,000.}{80.\:+\left[\frac{myId\:-123,456}{\left(numLet\:+20\right)^2}\right]}") 15 , 000.   80.  +  \[   m y I d  − 123 , 456    (  n u m L e t  + 20  )  2   \]
+#5:     15 , 000.   80.  +  \[   m y I d  − 123 , 456    (  n u m L e t  + 20  )  2   \]
 
 First do the math on paper so you know what answers your program should generate (but don't hand this stage in).  Write a program that computes and displays these five values.   Your run should look something like this (although the values will differ for each student):
 
