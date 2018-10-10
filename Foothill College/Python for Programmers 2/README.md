@@ -3,19 +3,10 @@ CS 21B-01W Intermediate Python Programming
 
 
 
-Fall 2018
----------
-
-CRN 21996
----------
-
-Foothill College
-----------------
-
-Instructor
+Fall 2018 | CRN 21996 | Foothill College
 ----------
 
-Geri Lamble
+Instructor: Geri Lamble
 
 E-mail:  [lamblegeri@fhda.edu](mailto:lamblegeri@fhda.edu)
 
@@ -83,83 +74,13 @@ There will be eight required lab assignments (worth 22.5 points each).  There i
 
 ### Grading Scale
 
-**Grade  **
-
-**Lower %  **
-
-**Upper %**
-
-A
-
-93%
-
-100%
-
-A-
-
-90%
-
-92%
-
-B+
-
-87%
-
-89%
-
-B
-
-83%
-
-86%
-
-B-
-
-80%
-
-82%
-
-C+
-
-77%
-
-79%
-
-C
-
-73%
-
-76%
-
-C-
-
-70%
-
-72%
-
-D+
-
-67%
-
-69%
-
-D
-
-63%
-
-66%
-
-D-
-
-60%
-
-62%
-
-F
-
-0%
-
-59%
+| **Grade  ** | **Lower %  ** | **Upper %** |
+|--- | --- | --- |
+| A | 93% | 100% |
+| A- | 90% | 92% |
+| B+ | 87% | 89% |
+| B | 83% | 86% |
+| B- | 80% | 82% |
 
 Course Expectations
 -------------------
@@ -181,230 +102,26 @@ Course material will be provided in Canvas including announcements, discussions,
 Course Outline
 --------------
 
-**Week**
+**Week** | **Topics**
+--- | ---
+1 | Introduction. Python Review: Basic Data Types: Numeric, Sequence, Unordered Collections; Hashing, Object Memory Model
+2 | More Python Review: Control Flow, Functions, File I/O, Exceptions
+3 | Modules and Packages, Object oriented programming, advanced function: map, filter and reduce
+4 | Regular Expressions
+5 | Databases
+6 | The Web and Search; Midterm Exam
+7 | GUI
+8 | Network Programming
+9 | Internet Client Programming
+10 | Multi-threading Programming
+11 | Web Programming: CSI and WSGI
+12 | Final Exam
 
-**Topics**
-
-1
-
-Introduction. Python Review: Basic Data Types: Numeric, Sequence, Unordered Collections; Hashing, Object Memory Model
-
-2
-
-More Python Review: Control Flow, Functions, File I/O, Exceptions
-
-3
-
-Modules and Packages, Object oriented programming, advanced function: map, filter and reduce
-
-4
-
-Regular Expressions
-
-5
-
-Databases
-
-6
-
-The Web and Search; Midterm Exam
-
-7
-
-GUI
-
-8
-
-Network Programming
-
-9
-
-Internet Client Programming
-
-10
-
-Multi-threading Programming
-
-11
-
-Web Programming: CSI and WSGI
-
-12
-
-Final Exam
-
-**Official Due Dates for Course**
-
-**Date**
-
-**Day**
-
-**Module**
-
-**Reading**
-
-**Lab Assignment Due 11:59 PM**
-
-**Take Quiz/Test Due 11:59 PM**
-
-Sept. 24
-
-Monday
-
-Unit 1
-
-Text: Review Topics Ch. 1 - 5; 7
-
-Oct. 1
-
-Monday
-
-Unit 2
-
-Text: Review Topics Ch. 6-9;13-14
-
-Oct. 2
-
-Tuesday
-
- Assignment 1
-
-Oct. 8
-
-Monday
-
-Unit 3
-
-Text: Review Topics Ch. 10; 15
-
-Oct. 9
-
-Tuesday
-
- Assignment 2
-
-Oct. 15
-
-Monday
-
-Unit 4
-
-Text Ch. 16
-
-Oct. 16
-
-Tuesday
-
- Assignment 3
-
-Oct. 22
-
-Monday
-
-Unit 5
-
-Text Ch. 23
-
-Oct. 23
-
-Tuesday
-
- Assignment 4
-
-Oct. 29
-
-Monday
-
-Unit 6
-
-Text Ch. 22.4
-
-Oct. 30
-
-Tuesday
-
- Midterm
-
-Nov. 5
-
-Monday
-
-Unit 7
-
-Handouts
-
-Nov. 6
-
-Tuesday
-
-Assignment 5
-
-Nov. 12
-
-Monday
-
-Unit 8
-
- Handouts
-
-Nov. 13 
-
-Tuesday
-
-Assignment 6
-
-Nov. 19
-
-Monday
-
-Unit 9
-
- Text Ch. 22
-
-Nov. 20
-
-Tuesday
-
- Assignment 7
-
-Nov. 26
-
-Monday
-
-Unit 10
-
-Handouts
-
-Nov. 27
-
-Tuesday
-
-Assignment 8
-
-Dec. 3 
-
-Monday
-
-Unit 11
-
-Handouts
-
-Dec. 4 
-
-Tuesday
-
-Assignment 9
-
-Dec. 11
-
-Tuesday
-
-Final Exam
 
 Help Resources
 --------------
 
-[STEM Success Center (Links to an external site.)Links to an external site.](https://foothill.edu/stemcenter/)
+[STEM Success Center](https://foothill.edu/stemcenter/)
 
 College Policies
 ----------------
@@ -420,12 +137,12 @@ You are encouraged to discuss in the forum about course questions but you may no
 Disability:
 -----------
 
-To obtain disability-related accommodations, students must contact the [**Disability Resource Center (DRC)** (Links to an external site.)Links to an external site.](https://foothill.edu/drc/) at the start of the quarter.
+To obtain disability-related accommodations, students must contact the [**Disability Resource Center (DRC)**](https://foothill.edu/drc/) at the start of the quarter.
 
 To contact DRC, you may:  
 
 ·      Visit DRC in Room 5400  
-·      Email DRC at drc@foothill.edu<[mailto:adaptivelearningdrc@foothill.edu (Links to an external site.)Links to an external site.](https://www.mail.fhda.edu/owa/redir.aspx?C=1YvRhd7XtMJyiWW05thSdW7V-VkgHcxXX25DKeZh8S_1cehH_wHVCA..&URL=mailto%3aadaptivelearningdrc%40foothill.edu)\>  
+·      Email DRC at [drc@foothill.edu](https://www.mail.fhda.edu/owa/redir.aspx?C=1YvRhd7XtMJyiWW05thSdW7V-VkgHcxXX25DKeZh8S_1cehH_wHVCA..&URL=mailto%3aadaptivelearningdrc%40foothill.edu)\>  
 ·      Call DRC at 650-949-7017 to make an appointment  
 
 If you already have an accommodation notification from DRC, please contact me privately to discuss your needs. 
