@@ -41,19 +41,19 @@ MATH 1A Calculus (5 units)
 **or** MATH 1AH Honors Calculus I (5 units)  
 MATH 1B Calculus (5 units)  
 **or** MATH 1BH Honors Calculus II (5 units)  
-MATH 1C Calculus (5 units)  
+~~**MATH 1C Calculus (5 units)**~~
 MATH 22 Discrete Mathematics (5 units)  
 **or** C S 18 Discrete Mathematics (5 units)  
 
 **And select ONE option** from the following:  
 Option #1: Java  
-C S 1A Object-Oriented Programming Methodologies in Java (4.5 units)  
+~~**C S 1A Object-Oriented Programming Methodologies in Java (4.5 units)**~~ 
 **or** C S 1AH Honors Object-Oriented Programming Methodologies in Java (4.5 units)  
 C S 1B Intermediate Software Design in Java (4.5 units)  
 C S 1C Advanced Data Structures & Algorithms in Java (4.5 units)  
 
 Option #2: C++  
-C S 2A Object-Oriented Programming Methodologies in C++ (4.5 units)  
+~~**C S 2A Object-Oriented Programming Methodologies in C++ (4.5 units)**~~
 **or** C S 2AH Honors Object-Oriented Programming Methodologies in C++ (4.5 units)  
 C S 2B Intermediate Software Design in C++ (4.5 units)  
 C S 2C Advanced Data Structures & Algorithms in C++ (4.5 units)  
@@ -75,8 +75,8 @@ C S 2M Intermediate Algorithm & Data Structure Methodologies in C++ (4.5 units)
 C S 19A Theory of Quantum Computing I (5 units)  
 C S 19B Theory of Quantum Computing II (5 units)  
 C S 20A Programming in C# (4.5 units)  
-C S 21A Python for Programmers (4.5 units)  
-C S 21B Intermediate Python Programming (4.5 units)  
+~~**C S 21A Python for Programmers (4.5 units)**~~ 
+~~**C S 21B Intermediate Python Programming (4.5 units)**~~  
 C S 22A JavaScript for Programmers (4.5 units)  
 C S 26A Ruby & Functional Programming (4.5 units)  
 C S 30A Introduction to Linux (4.5 units)  
@@ -103,7 +103,7 @@ CHEM 1B General Chemistry (5 units)
 CHEM 1C General Chemistry & Qualitative Analysis (5 units)  
 MATH 1D Calculus (5 units)  
 MATH 2A Differential Equations (5 units)  
-MATH 2B Linear Algebra (5 units)  
+~~**MATH 2B Linear Algebra (5 units)**~~  
 PHYS 2A General Physics (5 units)  
 PHYS 2AM General Physics: Calculus Supplement (1 unit)  
 PHYS 2B General Physics (5 units)  
