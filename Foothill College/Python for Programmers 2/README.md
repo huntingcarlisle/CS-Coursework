@@ -1,7 +1,7 @@
 CS 21B-01W Intermediate Python Programming
 ------------------------------------------
 
-![""](/courses/7633/files/1265092/preview?verifier=HJ3Fk8lJBq2mzs24aTmez2B5VSnexenX7pKpcrMJ)
+
 
 Fall 2018
 ---------
