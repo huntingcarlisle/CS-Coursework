@@ -19,7 +19,7 @@ You'll first have to do some simple research and collect information about the n
 **_The Research_**: Among some useful sources of nutritional information is [http://nutritiondata.self.com (Links to an external site.)Links to an external site.](http://nutritiondata.self.com). Enter a food name (like "garbanzo beans") and find the closest match from the list you get (say "Chickpeas, boiled without salt").  Use the pull-down to get "Serving Size = 100 gm."  Then scroll down to find the nutrients you are interested in.  In some cases, you may have to refer to an additional page, say, if the nutrient happens to be too detailed for that site. For example, in my program, I selected "soluble fiber" as one of the nutrients, but [nutritiondata.self.com (Links to an external site.)Links to an external site.](http://nutritiondata.self.com) only gives _total_ fiber, so I had to look elsewhere e.g.,  ([http://www.proactivenutrition.net/fiber-content-of-foods/ (Links to an external site.)Links to an external site.](http://www.proactivenutrition.net/fiber-content-of-foods/) or a similar fiber-specific reference) and do some conversions to find out how much soluble fiber was in 100g of my ingredient.
 
 _**A Simple Framework to Start**_: Here is a short program I wrote for you.  Study it carefully until you understand every line, and make sure it runs on your system.  You can't do the assignment until you first get this working and know how it works:
-
+```c++
 // CS 2A Lab 3 Framework
 
 #include <iostream>
@@ -99,9 +99,9 @@ int main()
 
    return 0;
 }
-
+```
 Here are two sample runs:
-
+```
 /\* -------------------------- run #1 ----------------------
 
 ---------- List of Possible Ingredients ---------
@@ -137,7 +137,7 @@ Nutrition for Michael's Simple Caprese------------
 Press any key to continue . . .
 
 --------------------------------------------------------------- \*/
-
+```
 Notice that the user gets a list of _**three ingredients**_ and selects quantities of each for his/her recipe. 
 
 *   **English Language Hint**:  An _**ingredient**_ is something you would buy and use in the recipe.  It could be a vegetable or a brand name of some pre-cooked mixture.  Examples of _**ingredients**_ are _**tomatoes**_, _**avocado**_, _**olive oil**_, _**Campbell's beef broth**_, _**sugar**_, _**garlic**_, _**split peas**_, _**soy beans**_, _**tofu**_, _**pasta**_, etc.
@@ -164,7 +164,7 @@ Your program will (in the following order during execution):
 5.  If step 2 or 3 gets an out-of-range value from the user, the program will end as described above.
 
 ### \------------SAMPLE RUN --------------------
-
+```
 List of Supplies (no user interaction here)
 .....
 .....
@@ -182,7 +182,7 @@ Name of recipe?  answer
 ... computing ...
 
 The nutritional value per serving is blah blah ...
-
+```
 It will be interesting to see how many different recipes you can make using the same _**four**_ to **_six_** ingredients.
 
 _Bon appétit_.
