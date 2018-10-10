@@ -86,16 +86,6 @@ int main()
    return 0;
 }
 /* --------- RUN ---------------------------------------
-"C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment 2\cmake-build-debug\Assignment_2.exe"
-My family name is Carlisle
-My student ID is 20343101
-The number of characters in my last name is 8
 
-Expression #1 ------------ : 0
-Expression #2 ------------ :: 0
-Expression #3 ------------ : 0.999975
-Expression #4 ------------ : 36
-Expression #5 ------------ : 0.579814
 
-Process finished with exit code 0
 ---------------------------------------------------------*/
