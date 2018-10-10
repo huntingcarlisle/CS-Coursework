@@ -1,6 +1,8 @@
 # CS-Coursework
 
-I am a software engineer and data scientist. This repository contains all of my computer science coursework, which consists of generally the following:
+My name is Hunter Carlisle. I am a software engineer and data scientist living and sitting in traffic in Los Angeles, Califorina. 
+
+This repository contains all of my computer science coursework, which consists of generally the following:
 - Programming Courses taken at Foothill College, a California Community College in Palo Alto.
 - Programming and Math Courses taken at the University of California, Los Angeles.
 - Computer Science MOOCs taken online through edX, Coursera, and Udacity.
