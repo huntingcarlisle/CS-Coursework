@@ -1,0 +1,30 @@
+Foothill
+Ann
+12345 El Monte Rd
+Los Altos Hills, CA 94022
+650-949-7259
+De Anza
+Bob
+21250 Stevens Creek Blvd
+Cupertino, CA 95014
+408-864-8877
+Bronco
+Bucky
+500 El Camino Real
+Santa Clara, CA 95053
+408-554-4000
+Main Street Bagels
+Yummy
+666 Los Altos Rancho
+Los Altos, CA 94024
+650-949-3640
+Skip's Place Pizza
+Skip
+299 1st St
+Los Altos, CA 94022
+650-949-1170
+Casa Lupe
+Lupe
+185 Main St
+Los Altos, CA 94022
+650-941-7390
