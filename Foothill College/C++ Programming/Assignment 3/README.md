@@ -3,7 +3,7 @@ Assignment 3 - Recipe-to-Nutrition Converter
 
 Make sure you have read and understood  
 
-[Link to Assignment on Canvas](https://foothillcollege.instructure.com/courses/7627/assignments/186521 )
+[Link to Assignment on Canvas](https://foothillcollege.instructure.com/courses/7627/assignments/186521)
 
 *   both **_m_**_**odules A**_ and _**B**_ this week, and
 *   _**module 2R - Lab Homework Requirements**_
