@@ -1,6 +1,6 @@
 # CS-Coursework
 
-![Hunter Carlisle](https://raw.githubusercontent.com/huntingcarlisle/CS-Coursework/master/13266048_10153667832081547_6516947789905173421_n.jpg "Red Nose Day 2016")
+![Hunter Carlisle](https://raw.githubusercontent.com/huntingcarlisle/CS-Coursework/master/Career/ProfilePicture_Coding.PNG "That's me!")
 
 My name is Hunter Carlisle. I am a software engineer and data scientist living and sitting in traffic in Los Angeles, Califorina. 
 
