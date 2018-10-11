@@ -1,3 +1,6 @@
+**Official Final Grade** | A+ | 100.52%
+--- | --- | ---
+
 #### **TEXTBOOK:**
 
 We will be using _required_ materials in a customized, interactive ebook from zyBooks. Purchase your zyBook by going through this [linkLinks to an external site.](http://learn.zybooks.com/). You will need to sign up and enter the book code: FHDACS1AHaightSpring2018 and click _Subscribe._From then on you will access the zyBook through links here in the Canvas modules.

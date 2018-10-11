@@ -1,9 +1,12 @@
+**Official Final Grade** | A+ | 99.93%
+--- | --- | ---
+
 Please choose your own textbook. I can _recommend_ the following:
 
 “Python For Everyone” by Horstmann &Necaise  
-_   ~_OR~  
+or
 The ebook by signing up at zybooks.com, enter the book code: **FHDACS21AHaightSpringQ2018,** click _Subscribe  
-_   ~OR~  
+or 
 a book of your choice.  
 Please choose whatever book looks best to you, but make sure it covers Python VERSION 3.
 

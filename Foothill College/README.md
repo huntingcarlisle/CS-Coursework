@@ -1,4 +1,17 @@
-Computer Science 2018-2019
+Official Course Grades
+------
+
+Course | Grade | Percentage
+:--- | --- | ---
+CS-1A: Object-Oriented Programming Methodologies in Java | A+ | 100.52%
+CS-21A: Python for Programmers | A+ | 99.93%
+CS-2A: Object-Oriented Programming Methodologies in C++ | IP | IP
+CS-21B: Intermediate Python Programming | IP | IP
+Math 2B: Linear Algebra (Los Angeles City College) | IP | IP
+Math 1C: Calculus (UCLA) | A+ | 101.00%
+
+
+Computer Science Degree Requirements 2018-2019
 --------------------------
 
 Computer programming, algorithms, data structures, and languages play an increasingly important role in academic, science and business careers. The Associate in Science degree satisfies the transfer requirements of many disparate 4-year colleges and universities. Our up-to-date curriculum is also valuable for enhancing the career opportunities of working professionals.
