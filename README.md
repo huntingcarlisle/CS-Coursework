@@ -18,6 +18,23 @@ In my day job, I'm a full-time finance technology consultant at 20th Century Fox
 
 You can contact me on LinkedIn at [https://www.linkedin.com/in/huntercarlisle/](https://www.linkedin.com/in/huntercarlisle/)
 #
+Official Course Grades in College Coursework
+------
+
+Course | Grade | Percentage | School
+:--- | --- | --- | ---
+CS-1A: Object-Oriented Programming Methodologies in Java | A+ | 100.52% | Foothill College
+CS-21A: Python for Programmers | A+ | 99.93% | Foothill College
+CS-2A: Object-Oriented Programming Methodologies in C++ | IP | IP | Foothill College
+CS-21B: Intermediate Python Programming | IP | IP | Foothill College
+Math 270: Linear Algebra | IP | IP | Los Angeles City College
+Math 32A: Multivariable Calculus | A+ | 101.00% | University of California, Los Angeles (UCLA)
+
+
+#
+OSSU Curriculum
+-----
+
 
 ![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
 
