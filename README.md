@@ -1,8 +1,8 @@
 # CS-Coursework
 
-![Hunter Carlisle](https://raw.githubusercontent.com/huntingcarlisle/CS-Coursework/master/Career/ProfilePicture_Coding.PNG "That's me!")
+![Hunter Carlisle](https://github.com/huntingcarlisle/CS-Coursework/blob/master/10_Career/ProfilePicture_Coding.PNG?raw=true "That's me!")
 
-My name is Hunter Carlisle. I am a software engineer and data scientist living and sitting in traffic in Los Angeles, Califorina. 
+My name is Hunter Carlisle. I am a software engineer and data scientist living and sitting in traffic in Los Angeles, California. 
 
 This repository contains all of my computer science coursework, which consists of generally the following:
 - Programming Courses taken at Foothill College, a California Community College in Palo Alto.
