@@ -150,11 +150,11 @@ int main()
    cout << "\nNutrition for one serving of " << recipeName << "------------\n";
    cout << INDENT << "Calories: " << (totalCals / numberServings) << endl;
    cout << INDENT << "Calories from Fat: " << (totalFatCals / numberServings)
-        << endl;
+   << endl;
    cout << INDENT << "Carbohydrates: " << (totalCarbs / numberServings)
-        << " grams\n";
+   << " grams\n";
    cout << INDENT << "Protein: " << (totalProtein / numberServings)
-        << " grams\n";
+   << " grams\n";
 
    return 0;
 }

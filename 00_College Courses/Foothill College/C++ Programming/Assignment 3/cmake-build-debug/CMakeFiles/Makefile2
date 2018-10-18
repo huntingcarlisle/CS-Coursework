@@ -51,19 +51,19 @@ NULL=nul
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\hunterc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4505.18\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\hunterc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4892.24\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\hunterc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4505.18\bin\cmake\win\bin\cmake.exe -E remove -f
+RM = C:\Users\hunterc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4892.24\bin\cmake\win\bin\cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment 3"
+CMAKE_SOURCE_DIR = "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 3"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment 3\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 3\cmake-build-debug"
 
 #=============================================================================
 # Target rules for target CMakeFiles/Assignment_3.dir
@@ -72,7 +72,7 @@ CMAKE_BINARY_DIR = "C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College
 CMakeFiles\Assignment_3.dir\all:
 	$(MAKE) -f CMakeFiles\Assignment_3.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Assignment_3.dir\depend
 	$(MAKE) -f CMakeFiles\Assignment_3.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Assignment_3.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment 3\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target Assignment_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 3\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target Assignment_3"
 .PHONY : CMakeFiles\Assignment_3.dir\all
 
 # Include target in all.
@@ -82,9 +82,9 @@ all: CMakeFiles\Assignment_3.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\Assignment_3.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment 3\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 3\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\Assignment_3.dir\all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment 3\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 3\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles\Assignment_3.dir\rule
 
 # Convenience name for target.
