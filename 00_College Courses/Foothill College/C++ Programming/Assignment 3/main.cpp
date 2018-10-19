@@ -160,19 +160,7 @@ int main()
 }
 /* --------- RUN 1 - NUMBER OF SERVINGS ERROR ---------------------------------------
 
----------- List of Possible Ingredients ---------
-   Food #1: avocado
-   Food #2: tomato
-   Food #3: buffalo mozzarella
-   Food #4: boneless chicken breast
 
-What are you calling this recipe?Avocado Toast
- Avocado Toast
-How many servings are in the recipe?0
- 0
-Error. Invalid number of servings.
-
-Process finished with exit code 0
 
 ---------------------------------------------------------*/
 
