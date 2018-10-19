@@ -17,9 +17,9 @@ Application: Date Format Converter
 *   **Module week4**
 *   **Text: _The Quick Python Book_, Third Ed., Naomi Ceder, Ch. 16**
 *   **Helpful Python3 tutorial links:**
-    *   [_re - Regular Expression Operations](https://docs.python.org/3/library/re.html)
-    *   [_Regular Expression HOWTO](https://docs.python.org/3/howto/regex.html)
-    *   [_Text Processing Services](https://docs.python.org/3/library/text.html)
+    *   [Regular Expression Operations](https://docs.python.org/3/library/re.html)
+    *   [Regular Expression HOWTO](https://docs.python.org/3/howto/regex.html)
+    *   [Text Processing Services](https://docs.python.org/3/library/text.html)
     *   [_Built-in Exceptions_](https://docs.python.org/3/library/exceptions.html)
 
 Before submitting this assignment.  Hand in only one submission.
@@ -30,11 +30,11 @@ Often, in working with big data, the task of converting document formats to alte
 
 **Understand the Application**
 
-For this lab, the task at hand is to create a date format converter.  Your program will convert a date in the format “mm/dd/yyyy” to the format “month day, year”.
+For this lab, the task at hand is to create a date format converter.  Your program will convert a date in the format `mm/dd/yyyy` to the format `month day, year`.
 
 **The Program Spec**
 
-Prompt the user to obtain a date from the user.  Specify the required input format: **mm/dd/yyyy**  Use a regular expression to validate the user input date format.  If the format is incorrect raise a **SystemExit**. 
+Prompt the user to obtain a date from the user.  Specify the required input format: `mm/dd/yyyy`  Use a regular expression to validate the user input date format.  If the format is incorrect raise a `SystemExit`. 
 
 Split the input string into respective month, day, and year components.  Using a list to hold the month format as a string, convert the month input to the correct string month name.  You will need to calculate an appropriate index to retrieve the correct month name from the month list.
 
@@ -68,33 +68,15 @@ The converted date is: January 01, 2018
 
 Here are some tips and REQUIREMENTS:
 
-1.    A list is used to store the month string names.
-
-2.    An index is calculated to retrieve the correct month from the list based on the user input.
-
-3\.    A user prompt instructs the user of the expected input date format: mm/dd/yyyy
-
-4\.    Obtain and validate user input. Display an error message and raise a SystemExit if invalid. 
-
-5\.    The converted date output is in the format: month day, year 
-
-6\.    The output display: month is spelled out, the day is 2 digits dd and the year is 4 digits dddd.
-
-7\.    Use named constants instead of literal values (i.e. NUM\_DATES = 5).
-
-8\.    Require 2 digits be supplied for mm and dd, 4 digits be supplied for year **y**yyy  (require that the leftmost digit of the year **not** to be a 0).  Use valid user input date range:  01/01/1000 - 12/31/2999.
+1. A list is used to store the month string names.
+1. An index is calculated to retrieve the correct month from the list based on the user input.
+1. A user prompt instructs the user of the expected input date format: `mm/dd/yyyy`
+1. Obtain and validate user input. Display an error message and raise a `SystemExit` if invalid. 
+1. The converted date output is in the format: `month day, year` 
+1. The output display: month is spelled out, the day is 2 digits dd and the year is 4 digits dddd.
+1. Use named constants instead of literal values (i.e. `NUM_DATES = 5`).
+1. Require 2 digits be supplied for mm and dd, 4 digits be supplied for year **y**yyy  (require that the leftmost digit of the year **not** to be a 0).  Use valid user input date range:  01/01/1000 - 12/31/2999.
    
-
-Upload a file, or choose a file you've already uploaded.
-
-File:
-
-
-
-
-Lab 4 Rubric
-
-You've already rated students with this rubric. Any major changes could affect their assessment results.
 
 Lab 4 Rubric
 -----
