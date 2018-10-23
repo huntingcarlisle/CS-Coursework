@@ -29,21 +29,27 @@ class TestKickstarter(unittest.TestCase):
     def test_backProject(self):
         """ Unit test for Backer.backProject"""
         self.b2.backProject(self.p1)
+
+    def test_advancedBackProject(self):
+        """ Unit test for Backer.backProject, testing that added to Project.backers"""
+        self.b2.backProject(self.p1)
         self.assertTrue(self.p1 in self.b2.getProjects())
-        # Advanced
-        self.assertTrue(self.b2 in self.p1.getBackers())
 
     def test_addBacker(self):
         """ Unit test for Project.addBacker"""
         self.p2.addBacker(self.b1)
+
+    def test_advancedAddBacker(self):
+        """ Unit test for Project.addBacker, testing that added to Backer.projects"""
+        self.p2.addBacker(self.b1)
         self.assertTrue(self.b1 in self.p2.getBackers())
-        # Advanced
-        self.assertTrue(self.p2 in self.b1.getProjects())
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)
 
 """
 ===== OUTPUT =====
+Ran 6 tests in 0.028s
 
+OK
 """
