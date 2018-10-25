@@ -130,39 +130,12 @@ class TestTransfer(unittest.TestCase):
         self.assertEqual(self.avi.get_balance(), 1000)
 
 
-
-#     def test_backerHasName(self):
-#         """ Unit test for BankAccount.__init__ errors """
-#         self.assertEqual(self.avi.getName(), "Avi")
-#
-#     def test_projectHasTitle(self):
-#         """ Unit test for Transfer.__init__ errors """
-#         self.assertEqual(self.p1.getTitle(), "Transfer With So Much Amaze")
-#
-#     def test_backProject(self):
-#         """ Unit test for BankAccount.backProject"""
-#         self.b2.backProject(self.p1)
-#
-#     def test_advancedBackProject(self):
-#         """ Unit test for BankAccount.backProject, testing that added to Transfer.backers"""
-#         self.b2.backProject(self.p1)
-#         self.assertTrue(self.p1 in self.b2.getProjects())
-#
-#     def test_addBacker(self):
-#         """ Unit test for Transfer.addBacker"""
-#         self.p2.addBacker(self.avi)
-#
-#     def test_advancedAddBacker(self):
-#         """ Unit test for Transfer.addBacker, testing that added to BankAccount.projects"""
-#         self.p2.addBacker(self.avi)
-#         self.assertTrue(self.avi in self.p2.getBackers())
-
 if __name__ == '__main__':
     unittest.main(verbosity=2)
 
 """
 ===== OUTPUT =====
-Ran 6 tests in 0.028s
+Ran 19 tests in 0.015s
 
 OK
 """
