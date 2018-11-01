@@ -1,4 +1,4 @@
-Arithmetic, Data Types, User Input, Formatting Output, Importing Modules
+Arithmetic, Data Types, User Input, Formatting Output, Importing Modules - Grade 18.5 out of 18.5
 ------------------------------------------------------------------------
 
 _Make sure that you have read and understood_
