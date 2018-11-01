@@ -1,4 +1,4 @@
-Assignment 1 - _Hello World!_
+Assignment 1 - _Hello World!_ - Grade 18 out of 18
 =============================
 
 Even though this is an extremely easy assignment, I want everyone to do it.   Let's all just focus on making sure we have the compiler working, the indentation perfect and the tabs out.  This will ensure you get the most points in your first assignment, which may come in handy down the road.   Make sure you have read and understood
