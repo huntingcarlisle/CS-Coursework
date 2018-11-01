@@ -1,4 +1,4 @@
-Assignment 2 - Arithmetic
+Assignment 2 - Arithmetic - Grade 18 out of 18
 =========================
 
 Make sure you have read and understood
