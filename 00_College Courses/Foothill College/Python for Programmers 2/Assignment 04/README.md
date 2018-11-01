@@ -2,7 +2,6 @@ Lab Assignment 4 - Grade: 18.5 out of 18.5
 ================
 
 *   Due Tuesday, 10/23/18 by 11:59pm
-*   Points 22.5
 *   Submitting a file upload
 *   Available Oct 17 at 8am - Oct 25 at 11:59pm 9 days
 
