@@ -1,4 +1,4 @@
-Lab Assignment 4
+Lab Assignment 4 - Grade: 18.5 out of 18.5
 ================
 
 *   Due Tuesday, 10/23/18 by 11:59pm
