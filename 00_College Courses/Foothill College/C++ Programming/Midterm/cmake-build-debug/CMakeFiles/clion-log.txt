@@ -1,0 +1,4 @@
+C:\Users\Hunter\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4505.18\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Midterm"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Hunter/Dropbox/Code/CS-Coursework/00_College Courses/Foothill College/C++ Programming/Midterm/cmake-build-debug

@@ -1,0 +1,283 @@
+/*
+Hunter Carlisle | Foothill College Fall 2018 | Lab Three
+
+This program takes user input recipe and prints nutrition info.
+Inputs: Recipe name, number of servings, grams per ingredient
+Print Output: Nutrition Info
+*/
+
+// CS 2A Lab 3 Framework
+
+#include <iostream>
+#include <string>
+#include <sstream>
+using namespace std;
+
+// main client --------------------------------------------------------
+int main()
+{
+    // food #1 constants
+    const string FOOD_1_NAME = "avocado";
+    const int FOOD_1_CALORIES_P100G = 160;  // in calories
+    const int FOOD_1_FAT_CALORIES_P100G = 129; // in calories
+    const double FOOD_1_CARBS_P100G = 8.6;   // in grams
+    const double FOOD_1_PROTEIN_P100G = 2.0;   // in grams
+
+    // food #2 constants
+    const string FOOD_2_NAME = "tomato";
+    const int FOOD_2_CALORIES_P100G = 18;  // in calories
+    const int FOOD_2_FAT_CALORIES_P100G = 2; // in calories
+    const double FOOD_2_CARBS_P100G = 3.2;   // in grams
+    const double FOOD_2_PROTEIN_P100G = 1.2;   // in grams
+
+    // food #3 constants
+    const string FOOD_3_NAME = "buffalo mozzarella";
+    const int FOOD_3_CALORIES_P100G = 282;  // in calories
+    const int FOOD_3_FAT_CALORIES_P100G = 154; // in calories
+    const double FOOD_3_CARBS_P100G = 3.1;   // in grams
+    const double FOOD_3_PROTEIN_P100G = 27.5;   // in grams
+
+    // food #4 constants
+    const string FOOD_4_NAME = "boneless chicken breast";
+    const int FOOD_4_CALORIES_P100G = 110;  // in calories
+    const int FOOD_4_FAT_CALORIES_P100G = 11; // in calories
+    const double FOOD_4_CARBS_P100G = 0.0;   // in grams
+    const double FOOD_4_PROTEIN_P100G = 23.1;   // in grams
+
+    const  string INDENT = "   ";
+    const int minServing = 1;
+    const int maxServing = 15;
+    const int minGrams = 0;
+    const int maxGrams = 1500;
+
+    string recipeName, userInputStr;
+    int userInputInt, numberServings;
+    double totalFatCals, totalCals, totalCarbs, totalProtein;
+
+
+    // initialize accumulator variables
+    totalCals = 0;
+    totalFatCals = 0.;
+    totalCarbs = 0.;
+    totalProtein = 0;
+
+    // print menu
+    cout << "---------- List of Possible Ingredients ---------" << endl;
+    cout << INDENT << "Food #1: " << FOOD_1_NAME << endl;
+    cout << INDENT << "Food #2: " << FOOD_2_NAME << endl;
+    cout << INDENT << "Food #3: " << FOOD_3_NAME << endl;
+    cout << INDENT << "Food #4: " << FOOD_4_NAME << endl << endl;
+
+    // name of recipe
+    cout << "What are you calling this recipe? ";
+    getline(cin, recipeName);
+
+    // number of servings
+    cout << "How many servings are in the recipe? ";
+    getline(cin, userInputStr);
+    istringstream(userInputStr) >> numberServings;
+    if (numberServings < minServing || numberServings > maxServing)
+    {
+        cout << "Error. Invalid number of servings." << endl;
+        return 0;
+    }
+
+    // food #1 ---------------------------------------------------------
+    cout << "How many grams of " << FOOD_1_NAME << "? ";
+    getline(cin, userInputStr);
+    istringstream(userInputStr) >> userInputInt;
+    if (userInputInt < minGrams || userInputInt > maxGrams)
+    {
+        cout << "Error. Invalid number of grams." << endl;
+        return 0;
+    }
+
+    // update accumulators
+    totalCals += userInputInt * (FOOD_1_CALORIES_P100G / 100.);
+    totalFatCals  += userInputInt * (FOOD_1_FAT_CALORIES_P100G / 100.);
+    totalCarbs  += userInputInt * (FOOD_1_CARBS_P100G / 100.);
+    totalProtein  += userInputInt * (FOOD_1_PROTEIN_P100G / 100.);
+
+    // food #2 ---------------------------------------------------------
+    cout << "How many grams of " << FOOD_2_NAME << "? ";
+    getline(cin, userInputStr);
+    istringstream(userInputStr) >> userInputInt;
+    if (userInputInt < minGrams || userInputInt > maxGrams)
+    {
+        cout << "Error. Invalid number of grams." << endl;
+        return 0;
+    }
+
+    // update accumulators
+    totalCals += userInputInt * (FOOD_2_CALORIES_P100G / 100.);
+    totalFatCals  += userInputInt * (FOOD_2_FAT_CALORIES_P100G / 100.);
+    totalCarbs  += userInputInt * (FOOD_2_CARBS_P100G / 100.);
+    totalProtein  += userInputInt * (FOOD_2_PROTEIN_P100G / 100.);
+
+    // food #3 ---------------------------------------------------------
+    cout << "How many grams of " << FOOD_3_NAME << "? ";
+    getline(cin, userInputStr);
+    istringstream(userInputStr) >> userInputInt;
+    if (userInputInt < minGrams || userInputInt > maxGrams)
+    {
+        cout << "Error. Invalid number of grams." << endl;
+        return 0;
+    }
+
+    // update accumulators
+    totalCals += userInputInt * (FOOD_3_CALORIES_P100G / 100.);
+    totalFatCals  += userInputInt * (FOOD_3_FAT_CALORIES_P100G / 100.);
+    totalCarbs  += userInputInt * (FOOD_3_CARBS_P100G / 100.);
+    totalProtein  += userInputInt * (FOOD_3_PROTEIN_P100G / 100.);
+
+    // food #4 ---------------------------------------------------------
+    cout << "How many grams of " << FOOD_4_NAME << "? ";
+    getline(cin, userInputStr);
+    istringstream(userInputStr) >> userInputInt;
+    if (userInputInt < minGrams || userInputInt > maxGrams)
+    {
+        cout << "Error. Invalid number of grams." << endl;
+        return 0;
+    }
+
+    // update accumulators
+    totalCals += userInputInt * (FOOD_4_CALORIES_P100G / 100.);
+    totalFatCals  += userInputInt * (FOOD_4_FAT_CALORIES_P100G / 100.);
+    totalCarbs  += userInputInt * (FOOD_4_CARBS_P100G / 100.);
+    totalProtein  += userInputInt * (FOOD_4_PROTEIN_P100G / 100.);
+
+    // report results --------------------------------------------------
+    cout << "\nNutrition for one serving of " << recipeName << "------------\n";
+    cout << INDENT << "Calories: " << (totalCals / numberServings) << endl;
+    cout << INDENT << "Calories from Fat: " << (totalFatCals / numberServings)
+         << endl;
+    cout << INDENT << "Carbohydrates: " << (totalCarbs / numberServings)
+         << " grams\n";
+    cout << INDENT << "Protein: " << (totalProtein / numberServings)
+         << " grams\n";
+
+    return 0;
+}
+/* --------- RUN 1 - NUMBER OF SERVINGS ERROR ---------------------------------------
+
+
+
+---------------------------------------------------------*/
+
+/* --------- RUN 2 - NUMBER OF GRAMS ERROR ---------------------------------------
+
+---------- List of Possible Ingredients ---------
+   Food #1: avocado
+   Food #2: tomato
+   Food #3: buffalo mozzarella
+   Food #4: boneless chicken breast
+
+What are you calling this recipe?Chicken Moutarde
+ Chicken Moutarde
+How many servings are in the recipe?4
+ 4
+How many grams of avocado?123
+ 123
+How many grams of tomato?0
+ 0
+How many grams of buffalo mozzarella?1567
+ 1567
+Error. Invalid number of grams.
+
+Process finished with exit code 0
+
+---------------------------------------------------------*/
+
+/* --------- RUN 3 ---------------------------------------
+
+---------- List of Possible Ingredients ---------
+   Food #1: avocado
+   Food #2: tomato
+   Food #3: buffalo mozzarella
+   Food #4: boneless chicken breast
+
+What are you calling this recipe?Avocado Salad
+ Avocado Salad
+How many servings are in the recipe?4
+ 4
+How many grams of avocado?250
+ 250
+How many grams of tomato?125
+ 125
+How many grams of buffalo mozzarella?100
+ 100
+How many grams of boneless chicken breast?50
+ 50
+
+Nutrition for a single serving of Avocado Salad------------
+   Calories: 189.875
+   Calories from Fat: 121.125
+   Carbohydrates: 7.15 grams
+   Protein: 11.3875 grams
+
+Process finished with exit code 0
+
+---------------------------------------------------------*/
+
+/* --------- RUN 4 ---------------------------------------
+
+---------- List of Possible Ingredients ---------
+   Food #1: avocado
+   Food #2: tomato
+   Food #3: buffalo mozzarella
+   Food #4: boneless chicken breast
+
+What are you calling this recipe?Chick'n'Cheese
+ Chick'n'Cheese
+How many servings are in the recipe?2
+ 2
+How many grams of avocado?0
+ 0
+How many grams of tomato?150
+ 150
+How many grams of buffalo mozzarella?1000
+ 1000
+How many grams of boneless chicken breast?500
+ 500
+
+Nutrition for a single serving of Chick'n'Cheese------------
+   Calories: 1698.5
+   Calories from Fat: 799
+   Carbohydrates: 17.9 grams
+   Protein: 196.15 grams
+
+Process finished with exit code 0
+
+---------------------------------------------------------*/
+
+/* --------- RUN 5 ---------------------------------------
+
+---------- List of Possible Ingredients ---------
+   Food #1: avocado
+   Food #2: tomato
+   Food #3: buffalo mozzarella
+   Food #4: boneless chicken breast
+
+What are you calling this recipe?Il Trammezzino Famous Chicken Special
+ Il Trammezzino Famous Chicken Special
+How many servings are in the recipe?1
+ 1
+How many grams of avocado?200
+ 200
+How many grams of tomato?50
+ 50
+How many grams of buffalo mozzarella?100
+ 100
+How many grams of boneless chicken breast?200
+ 200
+
+Nutrition for a single serving of Il Trammezzino Famous Chicken Special------------
+   Calories: 831
+   Calories from Fat: 435
+   Carbohydrates: 21.9 grams
+   Protein: 78.3 grams
+
+Process finished with exit code 0
+
+
+---------------------------------------------------------*/

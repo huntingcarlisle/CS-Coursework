@@ -1,0 +1,49 @@
+LAURIE (CONT’D)
+We, at ArTech, have developed
+something that will change the way
+the VTF approaches these incidents.
+
+The Mayor laughs.
+
+MAYOR
+You've your grandfather's flare for
+showmanship, Miss Ligero-Walker.
+
+LAURIE
+I consider myself an innovator, but
+I appreciate the compliment.
+
+The Mayor gestures for Laurie to continue. She moves to the
+table and reveals a VP Scanner.
+
+LAURIE (CONT’D)
+Everyone here knows the ArTech's VP
+Scanner. This tool allows the VTF
+to accurately locate any number of
+variant's within the scanner's
+range.
+Omega projects a simulation of how the scanner works. A
+circular map of city blocks with dots representing variants.
+OZ
+When the damn thing works.
+
+LAURIE
+But the VP Scanner is merely a
+surveillance tool. We began to
+wonder if we could do more. What if
+instead of simply identifying a
+variant's location, we were able to
+identify a variant's ability and
+effectively disable them?
+Omega projects a hologram of a brain.
+
+LAURIE (CONT’D)
+I imagine most of you own one of
+our ArDot smart devices. And are
+familiar with the AI assistant,
+Omega. Developed as a personal
+assistant app, we realized it could
+be more. Combining Q-Learning with
+decision-tree algorithms, Omega can
+make predictive models for pretty
+much anything.
