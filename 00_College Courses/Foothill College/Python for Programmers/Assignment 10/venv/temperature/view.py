@@ -3,21 +3,12 @@ import tkinter
 
 class MyFrame(tkinter.Frame):
     """
-<<<<<<< HEAD
     Class MyFrame is the VIEW for a program that allows a user to convert between celsius and fahrenheit temperatures.
     One object of this class is a tkinter frame that contains a text Entry Field, three Buttons and an output Label:
     - The text entry field takes user input temperature.
     - The convert to fahrenheit and celsius buttons convert the inputted value, respectively.
     - The quit button exits the program
     - The Label displays the converted value
-=======
-    class View is the VIEW for a simple program that exemplifies the Model/View/Controller architecture.
-    This View class is a tkinter.
-    Frame that contains three Buttons, a text entry field and a Label.
-    The text entry field inputs a user temperature.
-    One Button converts inputted temperature to fahrenheit, one button converts to celsius, and one button quits
-    The Label displays the converted value of the inputted temperature.
->>>>>>> 9efdd476a5ccc96bfdc91150865af4d0a45a9a15
     """
 
     def __init__(self, controller):
@@ -29,7 +20,7 @@ class MyFrame(tkinter.Frame):
         self.controller = controller
 
         self.temperatureEntry = tkinter.Entry()
-        self.temperatureEntry.insert(0, "Enter a temperature")
+        self.temperatureEntry.insert(0, "enter a temperature")
         self.temperatureEntry.pack({"side": "left"})
 
         self.fahrenheitButton = tkinter.Button(self)

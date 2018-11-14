@@ -11,15 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b323e0d-b5fe-4b6b-b150-4eaf0195bd46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HunterCarlisle_Assignment7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 06/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_07.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_07.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="6b323e0d-b5fe-4b6b-b150-4eaf0195bd46" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +24,7 @@
     <session id="540942529">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.opened" value="2" />
@@ -69,11 +61,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-544">
-              <caret line="80" column="17" lean-forward="true" selection-end-line="517" selection-end-column="80" />
+            <state relative-caret-position="-1224">
+              <caret line="136" column="29" lean-forward="true" selection-start-line="136" selection-start-column="29" selection-end-line="136" selection-end-column="29" />
               <folding>
                 <element signature="e#139#158#0" expanded="true" />
                 <element signature="e#315#943#1" />
@@ -82,10 +74,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HunterCarlisle_Assignment7.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4267">
+            <state relative-caret-position="3961">
               <caret line="251" lean-forward="true" selection-start-line="251" selection-end-line="251" />
             </state>
           </provider>
@@ -211,12 +203,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542216740757</updated>
       <workItem from="1542216750252" duration="3617000" />
-      <workItem from="1542222504798" duration="8546000" />
+      <workItem from="1542222504798" duration="8669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12163000" />
+    <option name="totallyTimeSpent" value="12286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-107" width="1936" height="1066" extended-state="6" />
@@ -271,21 +263,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HunterCarlisle_Assignment7.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3961">
+          <caret line="251" lean-forward="true" selection-start-line="251" selection-end-line="251" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-544">
-          <caret line="80" column="17" lean-forward="true" selection-end-line="517" selection-end-column="80" />
+        <state relative-caret-position="-1224">
+          <caret line="136" column="29" lean-forward="true" selection-start-line="136" selection-start-column="29" selection-end-line="136" selection-end-column="29" />
           <folding>
             <element signature="e#139#158#0" expanded="true" />
             <element signature="e#315#943#1" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HunterCarlisle_Assignment7.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4267">
-          <caret line="251" lean-forward="true" selection-start-line="251" selection-end-line="251" />
         </state>
       </provider>
     </entry>
