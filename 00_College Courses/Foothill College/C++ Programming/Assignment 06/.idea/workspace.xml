@@ -12,22 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9162d3f1-610d-4f81-9e7e-7af702c378f0" name="Default Changelist" comment="assn 6 setup">
-      <change afterPath="$PROJECT_DIR$/../Assignment 07/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment 07/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HunterCarlisleAssignment06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HunterCarlisleAssignment06.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Assignment_06.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment_06.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Assignment_06.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment_06.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Assignment_06.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment_06.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_06.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_06.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_06.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_06.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_06.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_06.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 07/cmake-build-debug/CMakeFiles/Assignment_07.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 07/cmake-build-debug/CMakeFiles/Assignment_07.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 07/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 07/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 07/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 07/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +59,7 @@
     <session id="737456801">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.41" value="1" />
@@ -112,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="114" column="1" lean-forward="true" selection-start-line="114" selection-start-column="1" selection-end-line="114" selection-end-column="1" />
+            <state relative-caret-position="408">
+              <caret line="161" column="12" lean-forward="true" selection-end-line="211" selection-end-column="80" />
               <folding>
                 <element signature="e#1085#3253#0" />
               </folding>
@@ -222,12 +210,12 @@
       <workItem from="1541700112598" duration="6470000" />
       <workItem from="1541707459006" duration="69000" />
       <workItem from="1541707719724" duration="894000" />
-      <workItem from="1542211171415" duration="1928000" />
+      <workItem from="1542211171415" duration="2694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9361000" />
+    <option name="totallyTimeSpent" value="10127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-107" width="1936" height="1066" extended-state="6" />
@@ -301,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="114" column="1" lean-forward="true" selection-start-line="114" selection-start-column="1" selection-end-line="114" selection-end-column="1" />
+        <state relative-caret-position="408">
+          <caret line="161" column="12" lean-forward="true" selection-end-line="211" selection-end-column="80" />
           <folding>
             <element signature="e#1085#3253#0" />
           </folding>
