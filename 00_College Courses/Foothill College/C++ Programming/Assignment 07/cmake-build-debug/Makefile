@@ -49,10 +49,10 @@ RM = C:\Users\hunterc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.5107.2
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 06"
+CMAKE_SOURCE_DIR = "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 07"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 06\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 07\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -81,9 +81,9 @@ rebuild_cache\fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 06\cmake-build-debug\CMakeFiles" "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 06\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 07\cmake-build-debug\CMakeFiles" "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 07\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 06\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\hunterc\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 07\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -112,17 +112,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Assignment_06
+# Target rules for targets named Assignment_07
 
 # Build rule for target.
-Assignment_06: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) Assignment_06
-.PHONY : Assignment_06
+Assignment_07: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) Assignment_07
+.PHONY : Assignment_07
 
 # fast build rule for target.
-Assignment_06\fast:
-	$(MAKE) -f CMakeFiles\Assignment_06.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Assignment_06.dir\build
-.PHONY : Assignment_06\fast
+Assignment_07\fast:
+	$(MAKE) -f CMakeFiles\Assignment_07.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Assignment_07.dir\build
+.PHONY : Assignment_07\fast
 
 main.obj: main.cpp.obj
 
@@ -130,7 +130,7 @@ main.obj: main.cpp.obj
 
 # target to build an object file
 main.cpp.obj:
-	$(MAKE) -f CMakeFiles\Assignment_06.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Assignment_06.dir\main.cpp.obj
+	$(MAKE) -f CMakeFiles\Assignment_07.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Assignment_07.dir\main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -139,7 +139,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles\Assignment_06.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Assignment_06.dir\main.cpp.i
+	$(MAKE) -f CMakeFiles\Assignment_07.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Assignment_07.dir\main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -148,7 +148,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles\Assignment_06.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Assignment_06.dir\main.cpp.s
+	$(MAKE) -f CMakeFiles\Assignment_07.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Assignment_07.dir\main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -157,8 +157,8 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... Assignment_06
 	@echo ... edit_cache
+	@echo ... Assignment_07
 	@echo ... rebuild_cache
 	@echo ... main.obj
 	@echo ... main.i

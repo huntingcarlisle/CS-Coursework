@@ -22,6 +22,11 @@ private:
    bool validString(string theString);
 
 public:
+   // STATIC CONSTANTS
+   static const int MIN_LEN;
+   static const int MAX_LEN;
+   static const string DEFAULT_STRING;
+
    // CONSTRUCTORS
    TripleString();
    TripleString(string string1, string string2, string string3);
@@ -37,9 +42,9 @@ public:
 };
 
 // STATIC CONSTANTS
-static const int MIN_LEN = 1;
-static const int MAX_LEN = 50;
-static const string DEFAULT_STRING = " (undefined) ";
+const int TripleString::MIN_LEN = 1;
+const int TripleString::MAX_LEN = 50;
+const string TripleString::DEFAULT_STRING = " (undefined) ";
 
 // CLIENT ----------------------------------------------------------------------
 int main()
@@ -109,19 +114,16 @@ TripleString::TripleString(string theString1,
       string theString2, string theString3)
 {
     // constructor definition
-   if(validString(theString1)) {
-      setString1(theString1);
-   } else {
+   if(!setString1(theString1))
+   {
       string1 = DEFAULT_STRING;
    }
-   if(validString(theString2)) {
-      setString2(theString2);
-   } else {
+   if(!setString2(theString2))
+   {
       string2 = DEFAULT_STRING;
    }
-   if(validString(theString3)) {
-      setString3(theString3);
-   } else {
+   if(!setString3(theString3))
+   {
       string3 = DEFAULT_STRING;
    }
 }
