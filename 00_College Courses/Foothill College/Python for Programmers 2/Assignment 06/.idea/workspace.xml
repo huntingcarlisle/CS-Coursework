@@ -2,26 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b314907e-64a0-4167-bf79-0c123ac3419e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distance/HunterCarlisleLab6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 05/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Assignment 06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignment 06.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 07/.idea/Assignment 07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 07/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 07/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 07/HunterCarlisleLab7client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 07/HunterCarlisleLab7server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 07/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distance/Main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_1Fa5x8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_EYTIxA.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_Ihmqmm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_Lkm1s.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_N0CJpM.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_QQT8tg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_RVX39.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_Vphqn6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_a26ryj.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_sG0iAG.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_w3rCLh.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_w6nLl1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~lock.CodingSchedule.ods#" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +56,7 @@
     <session id="1312784417">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -102,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/distance/HunterCarlisleLab6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="67" column="10" lean-forward="true" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+            <state>
+              <caret selection-end-line="5" selection-end-column="3" />
               <folding>
                 <element signature="e#122#180#0" expanded="true" />
                 <marker date="1542258752588" expanded="true" signature="241:2261" ph="..." />
@@ -343,7 +333,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09798658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -352,7 +341,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32765958" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26524824" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26524824" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -426,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/distance/HunterCarlisleLab6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="67" column="10" lean-forward="true" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+        <state>
+          <caret selection-end-line="5" selection-end-column="3" />
           <folding>
             <element signature="e#122#180#0" expanded="true" />
             <marker date="1542258752588" expanded="true" signature="241:2261" ph="..." />
