@@ -11,22 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5886eed-3dcc-4777-9c42-26b494376b6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/.idea/Assignment 07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/HunterCarlisleLab7client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/HunterCarlisleLab7server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 06/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 06/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b5886eed-3dcc-4777-9c42-26b494376b6f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
