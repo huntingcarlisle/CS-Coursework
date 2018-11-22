@@ -2,8 +2,8 @@
 Hunter Carlisle | Foothill College Fall 2018 | Lab Seven
 
 This is the server for a simple message echo program.
-
 """
+
 import socket
 
 HOST = socket.gethostname()
@@ -32,7 +32,6 @@ while True:
 
 conn.close()
 s.close()
-
 
 """ PROGRAM RUN: SERVER
 Waiting for Connection...

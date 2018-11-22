@@ -2,11 +2,10 @@
 Hunter Carlisle | Foothill College Fall 2018 | Lab Seven
 
 This is the client for a simple message echo program.
-
 """
+
 import socket
 
-# Initialize Variables
 HOST = socket.gethostname()
 PORT = 55555
 MESSAGE = "Demo Message - client: Hunter Carlisle"
@@ -25,7 +24,6 @@ data = s.recv(BUFFER_SIZE)
 
 s.close()
 print('Received', repr(data))
-
 
 """ PROGRAM RUN: CLIENT
 Received b'Demo Message - client: Hunter Carlisle'

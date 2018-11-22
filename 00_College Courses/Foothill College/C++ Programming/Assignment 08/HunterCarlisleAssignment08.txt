@@ -78,7 +78,7 @@ const char DateProfile::DEFAULT_SEARCH_GENDER = 'F';
 const int DateProfile::DEFAULT_FINANCE = 1;
 const int DateProfile::DEFAULT_ROMANCE = 1;
 const int DateProfile::DEFAULT_DISTANCE = 1;
-const string DateProfile::DEFAULT_NAME = "Michael Scott";
+const string DateProfile::DEFAULT_NAME = "Michael Scarn";
 
 
 // GLOBAL METHOD PROTOTYPES ----------------------------------------------------
@@ -98,9 +98,6 @@ int main()
     displayTwoProfiles(applicant1, applicant3);
     displayTwoProfiles(applicant1, applicant4);
     cout << endl;
-
-    applicant1.setAll('M', 'F', 10, 10, 10, "Michael Scarn");
-    
     displayTwoProfiles(applicant2, applicant1);
     displayTwoProfiles(applicant2, applicant2);
     displayTwoProfiles(applicant2, applicant3);
