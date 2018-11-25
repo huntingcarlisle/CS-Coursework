@@ -100,7 +100,7 @@ int main()
     cout << endl;
 
     applicant1.setAll('M', 'F', 10, 10, 10, "Michael Scarn");
-    
+
     displayTwoProfiles(applicant2, applicant1);
     displayTwoProfiles(applicant2, applicant2);
     displayTwoProfiles(applicant2, applicant3);
