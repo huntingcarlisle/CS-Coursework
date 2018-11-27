@@ -1,7 +1,6 @@
 #include <string>
 #include <iostream>
 #include <sstream>
-#include <array>
 #include <iomanip>
 using namespace std;
 

@@ -12,15 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a90da37-4f40-4e40-be5d-e9d4e072afd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Assignment 10/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HunterCarlisleAssignment9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HunterCarlisleAssignment9.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Assignment_09.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment_09.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Assignment_09.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment_09.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Assignment_09.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Assignment_09.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_09.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_09.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_09.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_09.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_09.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Assignment_09.dir/vc140.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10/cmake-build-debug/CMakeFiles/Assignment_10.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10/cmake-build-debug/CMakeFiles/Assignment_10.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 10/cmake-build-debug/CMakeFiles/Assignment_10.dir/vc140.pdb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4664">
-              <caret line="373" column="31" lean-forward="true" selection-start-line="373" selection-start-column="31" selection-end-line="373" selection-end-column="31" />
+            <state relative-caret-position="51">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -134,12 +136,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543252626132</updated>
       <workItem from="1543252633279" duration="1287000" />
-      <workItem from="1543343003489" duration="12609000" />
+      <workItem from="1543343003489" duration="13120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13896000" />
+    <option name="totallyTimeSpent" value="14407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1927" y="-99" width="974" height="1057" extended-state="0" />
@@ -185,8 +187,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4664">
-          <caret line="373" column="31" lean-forward="true" selection-start-line="373" selection-start-column="31" selection-end-line="373" selection-end-column="31" />
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
