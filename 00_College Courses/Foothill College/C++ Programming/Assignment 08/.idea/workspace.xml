@@ -11,7 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5886eed-3dcc-4777-9c42-26b494376b6f" name="Default Changelist" comment="" />
+    <list default="true" id="b5886eed-3dcc-4777-9c42-26b494376b6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment 09/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 09/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 09/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 09/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 08/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,10 +31,12 @@
     <session id="1729893289">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -67,10 +76,7 @@
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="149" column="40" lean-forward="true" selection-start-line="149" selection-start-column="40" selection-end-line="149" selection-end-column="40" />
-              <folding>
-                <element signature="e#139#156#0" expanded="true" />
-              </folding>
+              <caret line="149" column="40" selection-start-line="149" selection-start-column="40" selection-end-line="149" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -99,9 +105,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="841" />
+    <option name="width" value="1088" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -159,11 +165,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08053691" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08187919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32765958" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
@@ -176,6 +182,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32765958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -186,9 +193,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -198,6 +202,9 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/HunterCarlisleAssignment08.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -209,10 +216,7 @@
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="149" column="40" lean-forward="true" selection-start-line="149" selection-start-column="40" selection-end-line="149" selection-end-column="40" />
-          <folding>
-            <element signature="e#139#156#0" expanded="true" />
-          </folding>
+          <caret line="149" column="40" selection-start-line="149" selection-start-column="40" selection-end-line="149" selection-end-column="40" />
         </state>
       </provider>
     </entry>

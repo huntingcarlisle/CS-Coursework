@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37d0d7d8-e987-4222-ac84-16e4a5af1c85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Assignment 08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HunterCarlisleLab8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 08/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 08/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 08/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 07/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="37d0d7d8-e987-4222-ac84-16e4a5af1c85" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +15,7 @@
     <session id="919757409">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.167" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.opened" value="2" />
@@ -72,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HunterCarlisleLab8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="48">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#130#152#0" expanded="true" />
               </folding>
@@ -207,14 +197,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19865772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.65531915" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14042553" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -223,7 +212,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1319149" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1319149" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -277,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HunterCarlisleLab8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="48">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#130#152#0" expanded="true" />
           </folding>
