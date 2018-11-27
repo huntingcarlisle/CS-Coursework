@@ -8,57 +8,56 @@ using namespace std;
 // CLASS STUDENT PROTOTYPES ----------------------------------------------------
 class Student
 {
-private:
-    string firstName;
-    string lastName;
-    int totalPoints;
-    static int sortKey;
-
 public:
-    static const string DEFAULT_NAME;
-    static const int DEFAULT_POINTS = 0;
-    static const int MAX_POINTS = 1000;
-    static const int SORT_BY_FIRST = 88;
-    static const int SORT_BY_LAST = 98;
-    static const int SORT_BY_POINTS = 108;
-
-public:
-    Student();
-    Student( string first, string last, int points);
-
-    // ACCESSORS AND MUTATORS
-    string getFirstName() { return firstName; }
-    string getLastName() { return lastName; }
-    int getPoints() { return totalPoints; }
-
-    bool setFirstName(string first);
-    bool setLastName(string last);
-    bool setPoints(int pts);
-
-    static int compareTwoStudents( Student firstStud, Student secondStud );
-    static bool setSortKey(int key);
-    static int getSortKey() {return sortKey;}
-    string toString();
+   static const string DEFAULT_NAME;
+   static const int DEFAULT_POINTS = 0;
+   static const int MAX_POINTS = 1000;
+   static const int SORT_BY_FIRST = 88;
+   static const int SORT_BY_LAST = 98;
+   static const int SORT_BY_POINTS = 108;
 
 private:
-    static bool validString( string testStr );
-    static bool validPoints( int testPoints );
+   string firstName;
+   string lastName;
+   int totalPoints;
+   static int sortKey;
+
+public:
+   Student();
+   Student( string first, string last, int points);
+
+   // ACCESSORS AND MUTATORS
+   string getFirstName() { return firstName; }
+   string getLastName() { return lastName; }
+   int getPoints() { return totalPoints; }
+   bool setFirstName(string first);
+   bool setLastName(string last);
+   bool setPoints(int pts);
+   static bool setSortKey(int key);
+   static int getSortKey() {return sortKey;}
+
+   static int compareTwoStudents( Student firstStud, Student secondStud );
+   string toString();
+
+private:
+   static bool validString( string testStr );
+   static bool validPoints( int testPoints );
 };
 
 // CLASS STUDENT_ARRAY_UTILITIES PROTOTYPES ------------------------------------
 class StudentArrayUtilities
 {
 public:
-    static string toString(string title, Student *data, int arraySize);
-    static void arraySort(Student array[], int arraySize);
-    static int arraySearch( Student array[], string keyLast, int arraySize );
-    static int binarySearch(Student array[], string keyLast,
-                            int firstIndex, int lastIndex);
-    static double getMedianDestructive(Student array[], int arraySize);
+   static string toString(string title, Student *data, int arraySize);
+   static void arraySort(Student array[], int arraySize);
+   static int arraySearch( Student array[], string keyLast, int arraySize );
+   static int binarySearch(Student array[], string keyLast,
+                           int firstIndex, int lastIndex);
+   static double getMedianDestructive(Student array[], int arraySize);
 
 private:
-    static bool floatLargestToTop(Student data[], int top);
-    static void mySwap(Student &a, Student &b);
+   static bool floatLargestToTop(Student data[], int top);
+   static void mySwap(Student &a, Student &b);
 };
 
 // STATIC CONSTANTS ------------------------------------------------------------
@@ -156,12 +155,12 @@ Student::Student()
 
 Student::Student( string first, string last, int points)
 {
-    if ( !setFirstName(first) )
-        firstName = DEFAULT_NAME;
-    if ( !setLastName(last) )
-        lastName = DEFAULT_NAME;
-    if ( !setPoints(points) )
-        totalPoints = DEFAULT_POINTS;
+   if ( !setFirstName(first) )
+      firstName = DEFAULT_NAME;
+   if ( !setLastName(last) )
+      lastName = DEFAULT_NAME;
+   if ( !setPoints(points) )
+      totalPoints = DEFAULT_POINTS;
 }
 
 // MUTATORS
@@ -227,7 +226,7 @@ string Student::toString()
     cnvrtLast << lastName;
     cnvrtPoints << totalPoints;
 
-    resultString = " " + cnvrtFirst.str() + " " + cnvrtLast.str()
+    resultString = " " + cnvrtLast.str() + ", " + cnvrtFirst.str()
                    + " points: " + cnvrtPoints.str()
                    + "\n";
     return resultString;
@@ -334,8 +333,10 @@ double StudentArrayUtilities::getMedianDestructive(Student array[],
 {
     double medianPoints;
     int clientSortKey = Student::getSortKey();
+
     Student::setSortKey(Student::SORT_BY_POINTS);
     arraySort(array, arraySize);
+
     if (arraySize == 0)
        medianPoints = 0.0;
     else if (arraySize % 2 != 0)
@@ -345,8 +346,10 @@ double StudentArrayUtilities::getMedianDestructive(Student array[],
     }
     else
     {
-       medianPoints = (array[(arraySize / 2) - 1].getPoints() +
-              array[arraySize / 2].getPoints()) / 2.0;
+       int higherIndex = arraySize / 2;
+       int lowerIndex = higherIndex - 1;
+       medianPoints = (array[lowerIndex].getPoints() +
+              array[higherIndex].getPoints()) / 2.0;
     }
 
     Student::setSortKey(clientSortKey);
