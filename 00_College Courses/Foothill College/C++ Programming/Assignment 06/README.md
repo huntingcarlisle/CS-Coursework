@@ -1,4 +1,4 @@
-Assignment 6 - A Triple String Class
+Assignment 6 - A Triple String Class - Grade 18 out of 18
 ====================================
 
 Make sure you have read and understood
