@@ -1,4 +1,4 @@
-Assignment 7 - Casino with Methods and a Class
+Assignment 7 - Casino with Methods and a Class - Grade 18 out of 18
 ==============================================
 
 Make sure you have read and understood
