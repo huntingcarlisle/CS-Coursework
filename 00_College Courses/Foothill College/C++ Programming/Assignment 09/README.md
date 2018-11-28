@@ -94,7 +94,7 @@ Using each of the other three arrays:
 *   get the median of each array and display.  No other testing needed in this part.
 
 Here's a sample output, but you must not use my arrays.  Make your own as per the spec above.
-
+``` cpp
 Before: 
   smith, fred points: 95
   bauer, jack points: 123
@@ -151,7 +151,7 @@ Successfully preserved sort key.
 Median of oddClass = 148.0
 Median of smallClass = 95.0
 Median of noClass = 0.0
-
+```
 Once your assignment is graded and returned, you can view the instructor solution here:
 
 *   [Quiz List](/courses/7627/quizzes)
