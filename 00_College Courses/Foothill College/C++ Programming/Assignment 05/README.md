@@ -1,4 +1,4 @@
-Assignment 5 - Text Processing
+Assignment 5 - Text Processing - Grade 18 out of 18
 ==============================
 
 Make sure you have read and understood
