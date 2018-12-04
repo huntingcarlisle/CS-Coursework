@@ -30,7 +30,7 @@ public:
    int getPoints() { return totalPoints; }
    bool setFirstName(string first);
    bool setLastName(string last);
-   bool setPoints(int pts);
+   bool setPoints(int points);
    static bool setSortKey(int key);
    static int getSortKey() {return sortKey;}
 
@@ -172,11 +172,11 @@ bool Student::setLastName(string last)
    return true;
 }
 
-bool Student::setPoints(int pts)
+bool Student::setPoints(int points)
 {
-   if ( !validPoints(pts) )
+   if ( !validPoints(points) )
       return false;
-   totalPoints = pts;
+   totalPoints = points;
    return true;
 }
 

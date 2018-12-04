@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Hunter/Dropbox/Code/CS-Coursework/02_Bootcamps/Build Your Own LISP/02_HelloWorld/main.c
+stdio.h
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Hunter/Dropbox/Code/CS-Coursework/02_Bootcamps/Build Your Own LISP/04_REPL/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+editline/readline.h
+-
+editline/history.h
+-
+
