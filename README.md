@@ -25,9 +25,8 @@ Course | Grade | Percentage | School
 :--- | --- | --- | ---
 CS-1A: Object-Oriented Programming Methodologies in Java | A+ | 100.52% | Foothill College
 CS-21A: Python for Programmers | A+ | 99.93% | Foothill College
-CS-2A: Object-Oriented Programming Methodologies in C++ | IP | IP | Foothill College
-CS-21B: Intermediate Python Programming | IP | IP | Foothill College
-Math 270: Linear Algebra | IP | IP | Los Angeles City College
+CS-2A: Object-Oriented Programming Methodologies in C++ | A | 97.23% | Foothill College
+CS-21B: Intermediate Python Programming | A | 95.67% | Foothill College
 Math 32A: Multivariable Calculus | A+ | 101.00% | University of California, Los Angeles (UCLA)
 
 
