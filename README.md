@@ -21,13 +21,15 @@ You can contact me on LinkedIn at [https://www.linkedin.com/in/huntercarlisle/](
 Official Course Grades in College Coursework
 ------
 
-Course | Grade | Percentage | School
-:--- | --- | --- | ---
-CS-1A: Object-Oriented Programming Methodologies in Java | A+ | 100.52% | Foothill College
-CS-21A: Python for Programmers | A+ | 99.93% | Foothill College
+Course | Grade | Percentage
+:--- | --- | ---
+CS-1A: Object-Oriented Programming Methodologies in Java | A+ | 100.52%
+CS-21A: Python for Programmers | A+ | 99.93%
 CS-2A: Object-Oriented Programming Methodologies in C++ | A | 97.23% | Foothill College
 CS-21B: Intermediate Python Programming | A | 95.67% | Foothill College
-Math 32A: Multivariable Calculus | A+ | 101.00% | University of California, Los Angeles (UCLA)
+CS-31A: Database Management Systems | IP | IP | Foothill College
+CS-2B: Intermediate Software Design in C++ | IP | IP | Foothill College
+Math 1C: Calculus (UCLA) | A+ | 101.00%
 
 
 #
