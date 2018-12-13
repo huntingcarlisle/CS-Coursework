@@ -1,3 +1,7 @@
+**Official Final Grade** | A | 95.67%
+--- | --- | ---
+
+
 CS 21B-01W Intermediate Python Programming
 ------------------------------------------
 
