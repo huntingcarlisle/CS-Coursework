@@ -18,7 +18,7 @@ In my day job, I'm a full-time finance technology consultant at 20th Century Fox
 
 You can contact me on LinkedIn at [https://www.linkedin.com/in/huntercarlisle/](https://www.linkedin.com/in/huntercarlisle/)
 #
-Official Course Grades in College Coursework
+Official Course Grades in Relevant College Coursework
 ------
 
 Course | Grade | Percentage
