@@ -1,3 +1,6 @@
+**Official Final Grade** | A | 97.23%
+--- | --- | ---
+
 # Course Syllabus
 
 # CS 2A

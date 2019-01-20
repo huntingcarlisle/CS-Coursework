@@ -5,9 +5,10 @@ Course | Grade | Percentage
 :--- | --- | ---
 CS-1A: Object-Oriented Programming Methodologies in Java | A+ | 100.52%
 CS-21A: Python for Programmers | A+ | 99.93%
-CS-2A: Object-Oriented Programming Methodologies in C++ | IP | IP
-CS-21B: Intermediate Python Programming | IP | IP
-Math 2B: Linear Algebra (Los Angeles City College) | IP | IP
+CS-2A: Object-Oriented Programming Methodologies in C++ | A | 97.23% | Foothill College
+CS-21B: Intermediate Python Programming | A | 95.67% | Foothill College
+CS-31A: Database Management Systems | IP | IP | Foothill College
+CS-2B: Intermediate Software Design in C++ | IP | IP | Foothill College
 Math 1C: Calculus (UCLA) | A+ | 101.00%
 
 
