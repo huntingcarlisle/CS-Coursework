@@ -1,0 +1,63 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+    First Page
+{% endblock %}
+
+{% block body %}
+
+    <ul>
+        {% for note in notes %}
+            <li>{{ note }}</li>
+        {% endfor %}
+    </ul>
+
+    <form action="{{ url_for('index') }}" method="post">
+        <input type="text" name="note" placeholder="Enter Note Here">
+        <button>Add Note</button>
+    </form>
+{% endblock %}
+
+
+
+
+
+
+
+
+
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+    <!--<meta charset="UTF-8">-->
+    <!--&lt;!&ndash;<title>Is it New Year?</title>&ndash;&gt;-->
+    <!--&lt;!&ndash;<style>&ndash;&gt;-->
+        <!--&lt;!&ndash;body {&ndash;&gt;-->
+            <!--&lt;!&ndash;text-align: center;&ndash;&gt;-->
+        <!--&lt;!&ndash;}&ndash;&gt;-->
+    <!--&lt;!&ndash;</style>&ndash;&gt;-->
+<!--</head>-->
+<!--<body>-->
+    <!--<h1>First Page</h1>-->
+
+    <!--<p>-->
+        <!--This is just placeholder text but the problem is that I don't know latin.-->
+    <!--</p>-->
+
+    <!--<a href="{{ url_for('more') }}"> See more...</a>-->
+    <!--&lt;!&ndash;<h1>Names</h1>&ndash;&gt;-->
+
+    <!--&lt;!&ndash;<ul>&ndash;&gt;-->
+        <!--&lt;!&ndash;{% for name in names %}&ndash;&gt;-->
+            <!--&lt;!&ndash;<li>{{ name }}</li>&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;{% endfor %}&ndash;&gt;-->
+    <!--&lt;!&ndash;</ul>&ndash;&gt;-->
+    <!--&lt;!&ndash;&lt;!&ndash;{% if new_year %}&ndash;&gt;&ndash;&gt;-->
+        <!--&lt;!&ndash;&lt;!&ndash;<h1>Yes! Happy New Year!</h1>&ndash;&gt;&ndash;&gt;-->
+    <!--&lt;!&ndash;&lt;!&ndash;{% else %}&ndash;&gt;&ndash;&gt;-->
+        <!--&lt;!&ndash;&lt;!&ndash;<h1>NO</h1>&ndash;&gt;&ndash;&gt;-->
+    <!--&lt;!&ndash;&lt;!&ndash;{% endif %}&ndash;&gt;&ndash;&gt;-->
+<!--</body>-->
+<!--</html>-->

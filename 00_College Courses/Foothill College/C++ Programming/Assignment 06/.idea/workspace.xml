@@ -12,13 +12,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9162d3f1-610d-4f81-9e7e-7af702c378f0" name="Default Changelist" comment="assn 6 setup">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 08/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 08/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 08/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 08/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 08/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final Exam/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final Exam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final Exam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/.idea/Python for Programmers 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Final Exam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Final Exam/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../01_MOOCs/Harvard/CS50 React Native/Scratch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../01_MOOCs/Harvard/CS50 React Native/Scratch/scratch001.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../01_MOOCs/Harvard/CS50 React Native/project0/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/C++ Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/C++ Programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/Assignment_01.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/Assignment_01.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/Assignment_01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/Assignment_01.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/Assignment_01.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/Assignment_01.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/Assignment_01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/Assignment_01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/manifest.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 01/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 05/hunterCarlisleLab5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 05/hunterCarlisleLab5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 06/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/HunterCarlisleLab7client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/HunterCarlisleLab7client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/HunterCarlisleLab7server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 07/HunterCarlisleLab7server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 08/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 08/HunterCarlisleLab8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 08/HunterCarlisleLab8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 08/README" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 08/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python for Programmers 2/Assignment 09/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_Bootcamps/Build Your Own LISP/04_REPL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../02_Bootcamps/Build Your Own LISP/04_REPL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_1Fa5x8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_EYTIxA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_Ihmqmm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_Lkm1s.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_N0CJpM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_QQT8tg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_RVX39.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_Vphqn6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_a26ryj.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_sG0iAG.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_w3rCLh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_w6nLl1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~lock.CodingSchedule.ods#" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +95,11 @@
     <session id="2122920297">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -97,19 +160,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="2" />
-              <folding>
-                <element signature="e#1085#3253#0" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -147,8 +211,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -156,6 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,11 +228,15 @@
               <item name="Assignment_06" type="b2602c69:ProjectViewProjectNode" />
               <item name="Assignment 06" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Assignment_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment 06" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Build All">
+  <component name="RunManager" selected="Application.Assignment_06">
     <configuration name="Assignment_06" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Assignment_06" TARGET_NAME="Assignment_06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Assignment_06" RUN_TARGET_NAME="Assignment_06">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -224,9 +293,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2590604" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2624161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -236,9 +304,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32845744" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32765958" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32845744" />
@@ -276,29 +344,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="1972">
-          <caret line="116" column="64" selection-start-line="116" selection-start-column="64" selection-end-line="116" selection-end-column="64" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="116" column="64" selection-start-line="116" selection-start-column="64" selection-end-line="116" selection-end-column="64" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="2" />
-          <folding>
-            <element signature="e#1085#3253#0" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>

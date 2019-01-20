@@ -8,25 +8,24 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/hunterc/Dropbox/Code/CS-Coursework/Foothill College/C++ Programming/Assignment-01/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Hunter/Dropbox/Code/CS-Coursework/00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Assignment_01">
-				<Option output="C:/Users/hunterc/Dropbox/Code/CS-Coursework/Foothill College/C++ Programming/Assignment-01/cmake-build-debug/Assignment_01.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/hunterc/Dropbox/Code/CS-Coursework/Foothill College/C++ Programming/Assignment-01/cmake-build-debug"/>
+				<Option output="C:/Users/Hunter/Dropbox/Code/CS-Coursework/00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Assignment_01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Hunter/Dropbox/Code/CS-Coursework/00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\ATLMFC\include"/>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\include"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"/>
@@ -34,22 +33,21 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 Assignment_01"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 Assignment_01"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Assignment_01/fast">
-				<Option output="C:/Users/hunterc/Dropbox/Code/CS-Coursework/Foothill College/C++ Programming/Assignment-01/cmake-build-debug/Assignment_01.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/hunterc/Dropbox/Code/CS-Coursework/Foothill College/C++ Programming/Assignment-01/cmake-build-debug"/>
+				<Option output="C:/Users/Hunter/Dropbox/Code/CS-Coursework/00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Assignment_01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Hunter/Dropbox/Code/CS-Coursework/00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\ATLMFC\include"/>
-					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\include"/>
-					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"/>
@@ -57,37 +55,37 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 Assignment_01/fast"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 Assignment_01/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/hunterc/Dropbox/Code/CS-Coursework/Foothill College/C++ Programming/Assignment-01/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Hunter/Dropbox/Code/CS-Coursework/00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/hunterc/Dropbox/Code/CS-Coursework/Foothill College/C++ Programming/Assignment-01/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Hunter/Dropbox/Code/CS-Coursework/00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\hunterc\Dropbox\Code\CS-Coursework\Foothill College\C++ Programming\Assignment-01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\Hunter\Dropbox\Code\CS-Coursework\00_College Courses\Foothill College\C++ Programming\Assignment 01\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/hunterc/Dropbox/Code/CS-Coursework/Foothill College/C++ Programming/Assignment-01/main.cpp">
+		<Unit filename="C:/Users/Hunter/Dropbox/Code/CS-Coursework/00_College Courses/Foothill College/C++ Programming/Assignment 01/main.cpp">
 			<Option target="Assignment_01"/>
 		</Unit>
-		<Unit filename="C:/Users/hunterc/Dropbox/Code/CS-Coursework/Foothill College/C++ Programming/Assignment-01/CMakeLists.txt">
+		<Unit filename="C:/Users/Hunter/Dropbox/Code/CS-Coursework/00_College Courses/Foothill College/C++ Programming/Assignment 01/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

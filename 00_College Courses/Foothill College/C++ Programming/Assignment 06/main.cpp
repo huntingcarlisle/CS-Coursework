@@ -23,7 +23,7 @@ private:
 
 public:
    // STATIC CONSTANTS
-   static const int MIN_LEN;
+   static const int MIN_LEN = 1;
    static const int MAX_LEN;
    static const string DEFAULT_STRING;
 
@@ -42,7 +42,7 @@ public:
 };
 
 // STATIC CONSTANTS
-const int TripleString::MIN_LEN = 1;
+//const int TripleString::MIN_LEN = 1;
 const int TripleString::MAX_LEN = 50;
 const string TripleString::DEFAULT_STRING = " (undefined) ";
 

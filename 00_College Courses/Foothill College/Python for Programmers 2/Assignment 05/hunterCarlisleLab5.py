@@ -22,7 +22,7 @@ DATE = datetime.now().strftime("%Y-%m-%d")
 def stringify_url(url):
     """Inputs a website URL
         Returns a string representation of the content"""
-    return urllib.request.urlopen(url).read().decode("utf-8")
+    return urllib.request.urlopen(url).read().decode("latin-1")
 
 
 def create_occurrence_dict(website, topics):

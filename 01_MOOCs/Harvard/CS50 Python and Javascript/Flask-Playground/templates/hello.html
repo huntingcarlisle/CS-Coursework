@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+    Hello!
+{% endblock %}
+
+{% block body %}
+    Hello, {{ name }}!
+
+    <a href="{{ url_for('index') }}"> Go back</a>
+{% endblock %}

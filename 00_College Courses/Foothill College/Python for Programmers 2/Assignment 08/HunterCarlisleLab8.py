@@ -6,9 +6,9 @@ This program establishes an FTP connection to a remote server.
 
 from ftplib import FTP
 import ftplib
-
-SERVER = 'ftp.gnu.org'
-FILENAME = 'README'
+wget -r -np -nH --cut-dirs=3 -R index.html https://www.fgamedia.org/faculty/loceff/cs_courses/cs_2a/c*
+SERVER = 'ftp://www.fgamedia.org/faculty/loceff/cs_courses/cs_2a/'
+FILENAME = 'READMEtest'
 BLOCK_SIZE = 1024
 
 try:
@@ -27,9 +27,9 @@ else:
     print("Directory listing:")
     ftp.retrlines('LIST')
 
-    print("Downloading ", FILENAME)
-    localfile = open(FILENAME, 'wb')
-    ftp.retrbinary('RETR ' + FILENAME, localfile.write, BLOCK_SIZE)
+    # print("Downloading ", FILENAME)
+    # localfile = open(FILENAME, 'wb')
+    # ftp.retrlines('RETR ' + FILENAME, open('robots.txt', 'w').write)
 
     print("Closing connection...")
     ftp.quit()

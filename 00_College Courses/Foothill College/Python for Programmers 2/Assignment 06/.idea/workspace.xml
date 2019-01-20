@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b314907e-64a0-4167-bf79-0c123ac3419e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment 09/.idea/Assignment 09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment 09/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment 09/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment 09/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment 09/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment 09/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment 09/HunterCarlisleLab09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment 09/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../02_Bootcamps/Build Your Own LISP/02_HelloWorld/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../02_Bootcamps/Build Your Own LISP/02_HelloWorld/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../02_Bootcamps/Build Your Own LISP/02_HelloWorld/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../02_Bootcamps/Build Your Own LISP/04_REPL/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../02_Bootcamps/Build Your Own LISP/04_REPL/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../02_Bootcamps/Build Your Own LISP/04_REPL/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/HunterCarlisleAssignment9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/HunterCarlisleAssignment9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/cmake-build-debug/Assignment_09.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/cmake-build-debug/Assignment_09.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/cmake-build-debug/Assignment_09.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/cmake-build-debug/Assignment_09.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/cmake-build-debug/Assignment_09.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/cmake-build-debug/Assignment_09.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/cmake-build-debug/CMakeFiles/Assignment_09.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/cmake-build-debug/CMakeFiles/Assignment_09.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/cmake-build-debug/CMakeFiles/Assignment_09.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/cmake-build-debug/CMakeFiles/Assignment_09.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 09/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 10/HunterCarlisleAssignment10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 10/HunterCarlisleAssignment10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++ Programming/Assignment 10/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ Programming/Assignment 10/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../01_MOOCs/Harvard/CS50 React Native/Scratch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../01_MOOCs/Harvard/CS50 React Native/Scratch/scratch001.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../01_MOOCs/Harvard/CS50 React Native/project0/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 09/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/distance/HunterCarlisleLab6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="340">
+              <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
               <folding>
                 <element signature="e#122#157#0" expanded="true" />
               </folding>
@@ -117,10 +95,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1414" />
-    <option name="y" value="-107" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -265,10 +243,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-107" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09747102" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11723701" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -310,8 +288,8 @@
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1281322793/builtins.py" />
     <entry file="file://$PROJECT_DIR$/distance/HunterCarlisleLab6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="340">
+          <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
           <folding>
             <element signature="e#122#157#0" expanded="true" />
           </folding>

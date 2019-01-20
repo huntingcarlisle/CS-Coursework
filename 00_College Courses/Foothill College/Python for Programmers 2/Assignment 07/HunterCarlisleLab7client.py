@@ -7,6 +7,7 @@ This is the client for a simple message echo program.
 import socket
 
 HOST = socket.gethostname()
+print(HOST)
 PORT = 55555
 MESSAGE = "Demo Message - client: Hunter Carlisle"
 BUFFER_SIZE = 1024

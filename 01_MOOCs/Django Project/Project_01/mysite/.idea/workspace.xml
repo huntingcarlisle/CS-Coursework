@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1a585dc-9103-4832-8ba0-16a015a821f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Final Exam/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Final Exam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Final Exam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/.idea/Python for Programmers 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Final Exam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Final Exam/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Harvard/CS50 Python and Javascript/Flask-Playground/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Harvard/CS50 Python and Javascript/Flask-Playground/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Harvard/CS50 Python and Javascript/Flask-Playground/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Harvard/CS50 Python and Javascript/Flask-Playground/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Harvard/CS50 Python and Javascript/Flask-Playground/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Harvard/CS50 Python and Javascript/Flask-Playground/templates/more.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Harvard/CS50 React Native/Scratch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Harvard/CS50 React Native/Scratch/scratch001.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Harvard/CS50 React Native/project0/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/.idea/C++ Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/.idea/C++ Programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Assignment_01.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Assignment_01.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Assignment_01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Assignment_01.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Assignment_01.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Assignment_01.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Assignment_01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Assignment_01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/manifest.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Assignment_01.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 01/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 06/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/C++ Programming/Assignment 06/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 05/hunterCarlisleLab5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 05/hunterCarlisleLab5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 07/HunterCarlisleLab7client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 07/HunterCarlisleLab7client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 08/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 08/HunterCarlisleLab8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 08/HunterCarlisleLab8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 08/README" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 08/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../00_College Courses/Foothill College/Python for Programmers 2/Assignment 09/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_Bootcamps/Build Your Own LISP/04_REPL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../02_Bootcamps/Build Your Own LISP/04_REPL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_1Fa5x8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_EYTIxA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_Ihmqmm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_Lkm1s.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_N0CJpM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_QQT8tg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_RVX39.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_Vphqn6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_a26ryj.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_sG0iAG.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_w3rCLh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~c9_invoke_w6nLl1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../99_Miscellaneous/.~lock.CodingSchedule.ods#" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polls/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/polls/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#630#662#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/polls/views.py" />
+        <option value="$PROJECT_DIR$/polls/urls.py" />
+        <option value="$PROJECT_DIR$/mysite/urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="932" />
+    <option name="width" value="995" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="polls" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1a585dc-9103-4832-8ba0-16a015a821f7" name="Default Changelist" comment="" />
+      <created>1548012960387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548012960387</updated>
+      <workItem from="1548012963593" duration="4706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4706000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
