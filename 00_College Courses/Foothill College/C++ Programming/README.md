@@ -5,7 +5,7 @@
 
 # CS 2A
 
-# Fall 2015
+# Fall 2018
 
 ## S.1 Course Description and Prerequisite
 
