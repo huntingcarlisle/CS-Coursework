@@ -7,8 +7,8 @@ module Area where
                 print $check_expect' (area' 1.5) (1.5 * 1.5)
     
     
-    area' :: (Num a) => a -> a
+    area' :: (Floating a) => a -> a
     -- given length of one side of square, return the area of square
     
     -- area' s = 0   -- stub
-    area' s = (*) s s
+    area' = (**2)
