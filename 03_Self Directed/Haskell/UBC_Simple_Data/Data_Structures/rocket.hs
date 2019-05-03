@@ -11,28 +11,28 @@ program work properly and b) make the function design consistent.
 -}
 
 -- DATA DEFINITIONS
-data RocketDescent a = Landed a | DescendingRocket a deriving (Show)
+data RocketDescent = Landed Bool | DescendingRocket Double deriving (Show)
 -- interp. Landed if rocket's descent has ended, otherwise number of kilometers left to earth
 
 rd1 = DescendingRocket 100
 rd2 = DescendingRocket 40
 rd3 = DescendingRocket 0.5
-rd4 = Landed 0
+rd4 = Landed True
 
-instance (Eq a) => Eq (RocketDescent a) where
+instance Eq RocketDescent where
   DescendingRocket x == DescendingRocket y = x == y
   Landed x == Landed y = True
   _ == _ = False
 
 {-
-fn_for_RocketDescent (RocketDescent rd)
-  | ((==) Landed rd) = (...)
+fn_for_RocketDescent rd
+  | ((==) (Landed True) rd) = (...)
   | otherwise        = (... rd)
 -}
 
 
 -- FUNCTIONS
-has_landed :: (Eq a, Num a) => RocketDescent a -> Bool
+has_landed :: RocketDescent -> Bool
 -- returns True is rocket has landed, otehrwise returns False
 
 check_expect' :: (Eq a) => a -> a -> Bool
@@ -43,5 +43,4 @@ main = do   print $check_expect' (has_landed rd1) False
             print $check_expect' (has_landed rd3) False
             print $check_expect' (has_landed rd4) True
 
-has_landed rd = ((==) (Landed 0) rd)
---has_landed (DescendingRocket rd) = False
+has_landed rd = ((==) (Landed True) rd)
